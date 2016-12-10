@@ -1,0 +1,449 @@
+[27-Oct-2016 03:13:25 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function have_rows() in /Applications/MAMP/htdocs/wp-prac/wp-content/themes/real-estate-lite/page-home.php:41
+Stack trace:
+#0 /Applications/MAMP/htdocs/wp-prac/wp-includes/template-loader.php(75): include()
+#1 /Applications/MAMP/htdocs/wp-prac/wp-blog-header.php(19): require_once('/Applications/M...')
+#2 /Applications/MAMP/htdocs/wp-prac/index.php(17): require('/Applications/M...')
+#3 {main}
+  thrown in /Applications/MAMP/htdocs/wp-prac/wp-content/themes/real-estate-lite/page-home.php on line 41
+[27-Oct-2016 03:15:45 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function have_rows() in /Applications/MAMP/htdocs/wp-prac/wp-content/themes/real-estate-lite/page-home.php:41
+Stack trace:
+#0 /Applications/MAMP/htdocs/wp-prac/wp-includes/template-loader.php(75): include()
+#1 /Applications/MAMP/htdocs/wp-prac/wp-blog-header.php(19): require_once('/Applications/M...')
+#2 /Applications/MAMP/htdocs/wp-prac/index.php(17): require('/Applications/M...')
+#3 {main}
+  thrown in /Applications/MAMP/htdocs/wp-prac/wp-content/themes/real-estate-lite/page-home.php on line 41
+[27-Oct-2016 03:26:12 UTC] PHP Notice:  Undefined offset: 0 in /Applications/MAMP/htdocs/wp-prac/wp-includes/capabilities.php on line 117
+[27-Oct-2016 03:26:12 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /Applications/MAMP/htdocs/wp-prac/wp-includes/capabilities.php:117) in /Applications/MAMP/htdocs/wp-prac/wp-includes/pluggable.php on line 1174
+[27-Oct-2016 03:26:25 UTC] PHP Notice:  Undefined offset: 0 in /Applications/MAMP/htdocs/wp-prac/wp-includes/capabilities.php on line 117
+[27-Oct-2016 03:26:25 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /Applications/MAMP/htdocs/wp-prac/wp-includes/capabilities.php:117) in /Applications/MAMP/htdocs/wp-prac/wp-includes/pluggable.php on line 1174
+[27-Oct-2016 03:27:12 UTC] PHP Notice:  Undefined offset: 0 in /Applications/MAMP/htdocs/wp-prac/wp-includes/capabilities.php on line 117
+[27-Oct-2016 03:27:12 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /Applications/MAMP/htdocs/wp-prac/wp-includes/capabilities.php:117) in /Applications/MAMP/htdocs/wp-prac/wp-includes/pluggable.php on line 1174
+[27-Oct-2016 03:29:01 UTC] PHP Notice:  Undefined offset: 0 in /Applications/MAMP/htdocs/wp-prac/wp-includes/capabilities.php on line 117
+[27-Oct-2016 03:29:01 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /Applications/MAMP/htdocs/wp-prac/wp-includes/capabilities.php:117) in /Applications/MAMP/htdocs/wp-prac/wp-includes/pluggable.php on line 1174
+[31-Oct-2016 23:13:36 UTC] PHP Notice:  Undefined variable: link in /Applications/MAMP/htdocs/wp-prac/wp-content/themes/real-estate-lite/inc/customizer.php on line 22
+[31-Oct-2016 23:13:36 UTC] PHP Notice:  Undefined variable: link in /Applications/MAMP/htdocs/wp-prac/wp-content/themes/real-estate-lite/inc/customizer.php on line 22
+[31-Oct-2016 23:13:36 UTC] PHP Notice:  Undefined variable: link in /Applications/MAMP/htdocs/wp-prac/wp-content/themes/real-estate-lite/inc/customizer.php on line 22
+[31-Oct-2016 23:13:36 UTC] PHP Notice:  Undefined variable: link in /Applications/MAMP/htdocs/wp-prac/wp-content/themes/real-estate-lite/inc/customizer.php on line 22
+[31-Oct-2016 23:13:36 UTC] PHP Notice:  Undefined variable: link in /Applications/MAMP/htdocs/wp-prac/wp-content/themes/real-estate-lite/inc/customizer.php on line 22
+[31-Oct-2016 23:13:36 UTC] PHP Notice:  Undefined variable: link in /Applications/MAMP/htdocs/wp-prac/wp-content/themes/real-estate-lite/inc/customizer.php on line 38
+[31-Oct-2016 23:13:37 UTC] PHP Notice:  Undefined variable: link in /Applications/MAMP/htdocs/wp-prac/wp-content/themes/real-estate-lite/inc/customizer.php on line 22
+[31-Oct-2016 23:13:37 UTC] PHP Notice:  Undefined variable: link in /Applications/MAMP/htdocs/wp-prac/wp-content/themes/real-estate-lite/inc/customizer.php on line 22
+[31-Oct-2016 23:13:37 UTC] PHP Notice:  Undefined variable: link in /Applications/MAMP/htdocs/wp-prac/wp-content/themes/real-estate-lite/inc/customizer.php on line 22
+[31-Oct-2016 23:13:37 UTC] PHP Notice:  Undefined variable: link in /Applications/MAMP/htdocs/wp-prac/wp-content/themes/real-estate-lite/inc/customizer.php on line 22
+[31-Oct-2016 23:13:37 UTC] PHP Notice:  Undefined variable: link in /Applications/MAMP/htdocs/wp-prac/wp-content/themes/real-estate-lite/inc/customizer.php on line 22
+[31-Oct-2016 23:13:37 UTC] PHP Notice:  Undefined variable: link in /Applications/MAMP/htdocs/wp-prac/wp-content/themes/real-estate-lite/inc/customizer.php on line 38
+[31-Oct-2016 23:13:37 UTC] PHP Notice:  Undefined variable: link in /Applications/MAMP/htdocs/wp-prac/wp-content/themes/real-estate-lite/inc/customizer.php on line 22
+[31-Oct-2016 23:13:37 UTC] PHP Notice:  Undefined variable: link in /Applications/MAMP/htdocs/wp-prac/wp-content/themes/real-estate-lite/inc/customizer.php on line 22
+[31-Oct-2016 23:13:37 UTC] PHP Notice:  Undefined variable: link in /Applications/MAMP/htdocs/wp-prac/wp-content/themes/real-estate-lite/inc/customizer.php on line 22
+[31-Oct-2016 23:13:37 UTC] PHP Notice:  Undefined variable: link in /Applications/MAMP/htdocs/wp-prac/wp-content/themes/real-estate-lite/inc/customizer.php on line 22
+[31-Oct-2016 23:13:37 UTC] PHP Notice:  Undefined variable: link in /Applications/MAMP/htdocs/wp-prac/wp-content/themes/real-estate-lite/inc/customizer.php on line 22
+[31-Oct-2016 23:13:37 UTC] PHP Notice:  Undefined variable: link in /Applications/MAMP/htdocs/wp-prac/wp-content/themes/real-estate-lite/inc/customizer.php on line 38
+[02-Nov-2016 00:36:03 UTC] PHP Notice:  Undefined variable: link in /Applications/MAMP/htdocs/naifco/wp-content/themes/real-estate-lite/inc/customizer.php on line 22
+[02-Nov-2016 00:36:03 UTC] PHP Notice:  Undefined variable: link in /Applications/MAMP/htdocs/naifco/wp-content/themes/real-estate-lite/inc/customizer.php on line 22
+[02-Nov-2016 00:36:03 UTC] PHP Notice:  Undefined variable: link in /Applications/MAMP/htdocs/naifco/wp-content/themes/real-estate-lite/inc/customizer.php on line 22
+[02-Nov-2016 00:36:03 UTC] PHP Notice:  Undefined variable: link in /Applications/MAMP/htdocs/naifco/wp-content/themes/real-estate-lite/inc/customizer.php on line 22
+[02-Nov-2016 00:36:03 UTC] PHP Notice:  Undefined variable: link in /Applications/MAMP/htdocs/naifco/wp-content/themes/real-estate-lite/inc/customizer.php on line 22
+[02-Nov-2016 00:36:03 UTC] PHP Notice:  Undefined variable: link in /Applications/MAMP/htdocs/naifco/wp-content/themes/real-estate-lite/inc/customizer.php on line 38
+[02-Nov-2016 00:36:04 UTC] PHP Notice:  Undefined variable: link in /Applications/MAMP/htdocs/naifco/wp-content/themes/real-estate-lite/inc/customizer.php on line 22
+[02-Nov-2016 00:36:04 UTC] PHP Notice:  Undefined variable: link in /Applications/MAMP/htdocs/naifco/wp-content/themes/real-estate-lite/inc/customizer.php on line 22
+[02-Nov-2016 00:36:04 UTC] PHP Notice:  Undefined variable: link in /Applications/MAMP/htdocs/naifco/wp-content/themes/real-estate-lite/inc/customizer.php on line 22
+[02-Nov-2016 00:36:04 UTC] PHP Notice:  Undefined variable: link in /Applications/MAMP/htdocs/naifco/wp-content/themes/real-estate-lite/inc/customizer.php on line 22
+[02-Nov-2016 00:36:04 UTC] PHP Notice:  Undefined variable: link in /Applications/MAMP/htdocs/naifco/wp-content/themes/real-estate-lite/inc/customizer.php on line 22
+[02-Nov-2016 00:36:04 UTC] PHP Notice:  Undefined variable: link in /Applications/MAMP/htdocs/naifco/wp-content/themes/real-estate-lite/inc/customizer.php on line 38
+[02-Nov-2016 00:36:04 UTC] PHP Notice:  Undefined variable: link in /Applications/MAMP/htdocs/naifco/wp-content/themes/real-estate-lite/inc/customizer.php on line 22
+[02-Nov-2016 00:36:04 UTC] PHP Notice:  Undefined variable: link in /Applications/MAMP/htdocs/naifco/wp-content/themes/real-estate-lite/inc/customizer.php on line 22
+[02-Nov-2016 00:36:04 UTC] PHP Notice:  Undefined variable: link in /Applications/MAMP/htdocs/naifco/wp-content/themes/real-estate-lite/inc/customizer.php on line 22
+[02-Nov-2016 00:36:04 UTC] PHP Notice:  Undefined variable: link in /Applications/MAMP/htdocs/naifco/wp-content/themes/real-estate-lite/inc/customizer.php on line 22
+[02-Nov-2016 00:36:04 UTC] PHP Notice:  Undefined variable: link in /Applications/MAMP/htdocs/naifco/wp-content/themes/real-estate-lite/inc/customizer.php on line 22
+[02-Nov-2016 00:36:04 UTC] PHP Notice:  Undefined variable: link in /Applications/MAMP/htdocs/naifco/wp-content/themes/real-estate-lite/inc/customizer.php on line 38
+[02-Nov-2016 00:38:05 UTC] PHP Notice:  Undefined variable: link in /Applications/MAMP/htdocs/naifco/wp-content/themes/real-estate-lite/inc/customizer.php on line 22
+[02-Nov-2016 00:38:05 UTC] PHP Notice:  Undefined variable: link in /Applications/MAMP/htdocs/naifco/wp-content/themes/real-estate-lite/inc/customizer.php on line 22
+[02-Nov-2016 00:38:05 UTC] PHP Notice:  Undefined variable: link in /Applications/MAMP/htdocs/naifco/wp-content/themes/real-estate-lite/inc/customizer.php on line 22
+[02-Nov-2016 00:38:05 UTC] PHP Notice:  Undefined variable: link in /Applications/MAMP/htdocs/naifco/wp-content/themes/real-estate-lite/inc/customizer.php on line 22
+[02-Nov-2016 00:38:05 UTC] PHP Notice:  Undefined variable: link in /Applications/MAMP/htdocs/naifco/wp-content/themes/real-estate-lite/inc/customizer.php on line 22
+[02-Nov-2016 00:38:05 UTC] PHP Notice:  Undefined variable: link in /Applications/MAMP/htdocs/naifco/wp-content/themes/real-estate-lite/inc/customizer.php on line 38
+[02-Nov-2016 00:38:06 UTC] PHP Notice:  Undefined variable: link in /Applications/MAMP/htdocs/naifco/wp-content/themes/real-estate-lite/inc/customizer.php on line 22
+[02-Nov-2016 00:38:06 UTC] PHP Notice:  Undefined variable: link in /Applications/MAMP/htdocs/naifco/wp-content/themes/real-estate-lite/inc/customizer.php on line 22
+[02-Nov-2016 00:38:06 UTC] PHP Notice:  Undefined variable: link in /Applications/MAMP/htdocs/naifco/wp-content/themes/real-estate-lite/inc/customizer.php on line 22
+[02-Nov-2016 00:38:06 UTC] PHP Notice:  Undefined variable: link in /Applications/MAMP/htdocs/naifco/wp-content/themes/real-estate-lite/inc/customizer.php on line 22
+[02-Nov-2016 00:38:06 UTC] PHP Notice:  Undefined variable: link in /Applications/MAMP/htdocs/naifco/wp-content/themes/real-estate-lite/inc/customizer.php on line 22
+[02-Nov-2016 00:38:06 UTC] PHP Notice:  Undefined variable: link in /Applications/MAMP/htdocs/naifco/wp-content/themes/real-estate-lite/inc/customizer.php on line 38
+[02-Nov-2016 00:38:06 UTC] PHP Notice:  Undefined variable: link in /Applications/MAMP/htdocs/naifco/wp-content/themes/real-estate-lite/inc/customizer.php on line 22
+[02-Nov-2016 00:38:06 UTC] PHP Notice:  Undefined variable: link in /Applications/MAMP/htdocs/naifco/wp-content/themes/real-estate-lite/inc/customizer.php on line 22
+[02-Nov-2016 00:38:06 UTC] PHP Notice:  Undefined variable: link in /Applications/MAMP/htdocs/naifco/wp-content/themes/real-estate-lite/inc/customizer.php on line 22
+[02-Nov-2016 00:38:06 UTC] PHP Notice:  Undefined variable: link in /Applications/MAMP/htdocs/naifco/wp-content/themes/real-estate-lite/inc/customizer.php on line 22
+[02-Nov-2016 00:38:06 UTC] PHP Notice:  Undefined variable: link in /Applications/MAMP/htdocs/naifco/wp-content/themes/real-estate-lite/inc/customizer.php on line 22
+[02-Nov-2016 00:38:06 UTC] PHP Notice:  Undefined variable: link in /Applications/MAMP/htdocs/naifco/wp-content/themes/real-estate-lite/inc/customizer.php on line 38
+[02-Nov-2016 00:39:34 UTC] PHP Notice:  Undefined variable: link in /Applications/MAMP/htdocs/naifco/wp-content/themes/real-estate-lite/inc/customizer.php on line 22
+[02-Nov-2016 00:39:34 UTC] PHP Notice:  Undefined variable: link in /Applications/MAMP/htdocs/naifco/wp-content/themes/real-estate-lite/inc/customizer.php on line 22
+[02-Nov-2016 00:39:34 UTC] PHP Notice:  Undefined variable: link in /Applications/MAMP/htdocs/naifco/wp-content/themes/real-estate-lite/inc/customizer.php on line 22
+[02-Nov-2016 00:39:34 UTC] PHP Notice:  Undefined variable: link in /Applications/MAMP/htdocs/naifco/wp-content/themes/real-estate-lite/inc/customizer.php on line 22
+[02-Nov-2016 00:39:34 UTC] PHP Notice:  Undefined variable: link in /Applications/MAMP/htdocs/naifco/wp-content/themes/real-estate-lite/inc/customizer.php on line 22
+[02-Nov-2016 00:39:34 UTC] PHP Notice:  Undefined variable: link in /Applications/MAMP/htdocs/naifco/wp-content/themes/real-estate-lite/inc/customizer.php on line 38
+[02-Nov-2016 00:39:35 UTC] PHP Notice:  Undefined variable: link in /Applications/MAMP/htdocs/naifco/wp-content/themes/real-estate-lite/inc/customizer.php on line 22
+[02-Nov-2016 00:39:35 UTC] PHP Notice:  Undefined variable: link in /Applications/MAMP/htdocs/naifco/wp-content/themes/real-estate-lite/inc/customizer.php on line 22
+[02-Nov-2016 00:39:35 UTC] PHP Notice:  Undefined variable: link in /Applications/MAMP/htdocs/naifco/wp-content/themes/real-estate-lite/inc/customizer.php on line 22
+[02-Nov-2016 00:39:35 UTC] PHP Notice:  Undefined variable: link in /Applications/MAMP/htdocs/naifco/wp-content/themes/real-estate-lite/inc/customizer.php on line 22
+[02-Nov-2016 00:39:35 UTC] PHP Notice:  Undefined variable: link in /Applications/MAMP/htdocs/naifco/wp-content/themes/real-estate-lite/inc/customizer.php on line 22
+[02-Nov-2016 00:39:35 UTC] PHP Notice:  Undefined variable: link in /Applications/MAMP/htdocs/naifco/wp-content/themes/real-estate-lite/inc/customizer.php on line 38
+[02-Nov-2016 00:39:36 UTC] PHP Notice:  Undefined variable: link in /Applications/MAMP/htdocs/naifco/wp-content/themes/real-estate-lite/inc/customizer.php on line 22
+[02-Nov-2016 00:39:36 UTC] PHP Notice:  Undefined variable: link in /Applications/MAMP/htdocs/naifco/wp-content/themes/real-estate-lite/inc/customizer.php on line 22
+[02-Nov-2016 00:39:36 UTC] PHP Notice:  Undefined variable: link in /Applications/MAMP/htdocs/naifco/wp-content/themes/real-estate-lite/inc/customizer.php on line 22
+[02-Nov-2016 00:39:36 UTC] PHP Notice:  Undefined variable: link in /Applications/MAMP/htdocs/naifco/wp-content/themes/real-estate-lite/inc/customizer.php on line 22
+[02-Nov-2016 00:39:36 UTC] PHP Notice:  Undefined variable: link in /Applications/MAMP/htdocs/naifco/wp-content/themes/real-estate-lite/inc/customizer.php on line 22
+[02-Nov-2016 00:39:36 UTC] PHP Notice:  Undefined variable: link in /Applications/MAMP/htdocs/naifco/wp-content/themes/real-estate-lite/inc/customizer.php on line 38
+[02-Nov-2016 00:44:14 UTC] PHP Notice:  Undefined variable: link in /Applications/MAMP/htdocs/naifco/wp-content/themes/real-estate-lite/inc/customizer.php on line 22
+[02-Nov-2016 00:44:14 UTC] PHP Notice:  Undefined variable: link in /Applications/MAMP/htdocs/naifco/wp-content/themes/real-estate-lite/inc/customizer.php on line 22
+[02-Nov-2016 00:44:14 UTC] PHP Notice:  Undefined variable: link in /Applications/MAMP/htdocs/naifco/wp-content/themes/real-estate-lite/inc/customizer.php on line 22
+[02-Nov-2016 00:44:14 UTC] PHP Notice:  Undefined variable: link in /Applications/MAMP/htdocs/naifco/wp-content/themes/real-estate-lite/inc/customizer.php on line 22
+[02-Nov-2016 00:44:14 UTC] PHP Notice:  Undefined variable: link in /Applications/MAMP/htdocs/naifco/wp-content/themes/real-estate-lite/inc/customizer.php on line 22
+[02-Nov-2016 00:44:14 UTC] PHP Notice:  Undefined variable: link in /Applications/MAMP/htdocs/naifco/wp-content/themes/real-estate-lite/inc/customizer.php on line 38
+[02-Nov-2016 00:44:15 UTC] PHP Notice:  Undefined variable: link in /Applications/MAMP/htdocs/naifco/wp-content/themes/real-estate-lite/inc/customizer.php on line 22
+[02-Nov-2016 00:44:15 UTC] PHP Notice:  Undefined variable: link in /Applications/MAMP/htdocs/naifco/wp-content/themes/real-estate-lite/inc/customizer.php on line 22
+[02-Nov-2016 00:44:15 UTC] PHP Notice:  Undefined variable: link in /Applications/MAMP/htdocs/naifco/wp-content/themes/real-estate-lite/inc/customizer.php on line 22
+[02-Nov-2016 00:44:15 UTC] PHP Notice:  Undefined variable: link in /Applications/MAMP/htdocs/naifco/wp-content/themes/real-estate-lite/inc/customizer.php on line 22
+[02-Nov-2016 00:44:15 UTC] PHP Notice:  Undefined variable: link in /Applications/MAMP/htdocs/naifco/wp-content/themes/real-estate-lite/inc/customizer.php on line 22
+[02-Nov-2016 00:44:15 UTC] PHP Notice:  Undefined variable: link in /Applications/MAMP/htdocs/naifco/wp-content/themes/real-estate-lite/inc/customizer.php on line 38
+[02-Nov-2016 00:44:15 UTC] PHP Notice:  Undefined variable: link in /Applications/MAMP/htdocs/naifco/wp-content/themes/real-estate-lite/inc/customizer.php on line 22
+[02-Nov-2016 00:44:15 UTC] PHP Notice:  Undefined variable: link in /Applications/MAMP/htdocs/naifco/wp-content/themes/real-estate-lite/inc/customizer.php on line 22
+[02-Nov-2016 00:44:15 UTC] PHP Notice:  Undefined variable: link in /Applications/MAMP/htdocs/naifco/wp-content/themes/real-estate-lite/inc/customizer.php on line 22
+[02-Nov-2016 00:44:15 UTC] PHP Notice:  Undefined variable: link in /Applications/MAMP/htdocs/naifco/wp-content/themes/real-estate-lite/inc/customizer.php on line 22
+[02-Nov-2016 00:44:15 UTC] PHP Notice:  Undefined variable: link in /Applications/MAMP/htdocs/naifco/wp-content/themes/real-estate-lite/inc/customizer.php on line 22
+[02-Nov-2016 00:44:15 UTC] PHP Notice:  Undefined variable: link in /Applications/MAMP/htdocs/naifco/wp-content/themes/real-estate-lite/inc/customizer.php on line 38
+[03-Nov-2016 02:01:48 UTC] PHP Notice:  Undefined variable: link in /Applications/MAMP/htdocs/naifco/wp-content/themes/real-estate-lite/inc/customizer.php on line 22
+[03-Nov-2016 02:01:48 UTC] PHP Notice:  Undefined variable: link in /Applications/MAMP/htdocs/naifco/wp-content/themes/real-estate-lite/inc/customizer.php on line 22
+[03-Nov-2016 02:01:48 UTC] PHP Notice:  Undefined variable: link in /Applications/MAMP/htdocs/naifco/wp-content/themes/real-estate-lite/inc/customizer.php on line 22
+[03-Nov-2016 02:01:49 UTC] PHP Notice:  Undefined variable: link in /Applications/MAMP/htdocs/naifco/wp-content/themes/real-estate-lite/inc/customizer.php on line 22
+[03-Nov-2016 02:01:49 UTC] PHP Notice:  Undefined variable: link in /Applications/MAMP/htdocs/naifco/wp-content/themes/real-estate-lite/inc/customizer.php on line 22
+[03-Nov-2016 02:01:49 UTC] PHP Notice:  Undefined variable: link in /Applications/MAMP/htdocs/naifco/wp-content/themes/real-estate-lite/inc/customizer.php on line 38
+[03-Nov-2016 02:01:49 UTC] PHP Notice:  Undefined variable: link in /Applications/MAMP/htdocs/naifco/wp-content/themes/real-estate-lite/inc/customizer.php on line 22
+[03-Nov-2016 02:01:49 UTC] PHP Notice:  Undefined variable: link in /Applications/MAMP/htdocs/naifco/wp-content/themes/real-estate-lite/inc/customizer.php on line 22
+[03-Nov-2016 02:01:49 UTC] PHP Notice:  Undefined variable: link in /Applications/MAMP/htdocs/naifco/wp-content/themes/real-estate-lite/inc/customizer.php on line 22
+[03-Nov-2016 02:01:49 UTC] PHP Notice:  Undefined variable: link in /Applications/MAMP/htdocs/naifco/wp-content/themes/real-estate-lite/inc/customizer.php on line 22
+[03-Nov-2016 02:01:49 UTC] PHP Notice:  Undefined variable: link in /Applications/MAMP/htdocs/naifco/wp-content/themes/real-estate-lite/inc/customizer.php on line 22
+[03-Nov-2016 02:01:49 UTC] PHP Notice:  Undefined variable: link in /Applications/MAMP/htdocs/naifco/wp-content/themes/real-estate-lite/inc/customizer.php on line 38
+[03-Nov-2016 02:01:50 UTC] PHP Notice:  Undefined variable: link in /Applications/MAMP/htdocs/naifco/wp-content/themes/real-estate-lite/inc/customizer.php on line 22
+[03-Nov-2016 02:01:50 UTC] PHP Notice:  Undefined variable: link in /Applications/MAMP/htdocs/naifco/wp-content/themes/real-estate-lite/inc/customizer.php on line 22
+[03-Nov-2016 02:01:50 UTC] PHP Notice:  Undefined variable: link in /Applications/MAMP/htdocs/naifco/wp-content/themes/real-estate-lite/inc/customizer.php on line 22
+[03-Nov-2016 02:01:50 UTC] PHP Notice:  Undefined variable: link in /Applications/MAMP/htdocs/naifco/wp-content/themes/real-estate-lite/inc/customizer.php on line 22
+[03-Nov-2016 02:01:50 UTC] PHP Notice:  Undefined variable: link in /Applications/MAMP/htdocs/naifco/wp-content/themes/real-estate-lite/inc/customizer.php on line 22
+[03-Nov-2016 02:01:50 UTC] PHP Notice:  Undefined variable: link in /Applications/MAMP/htdocs/naifco/wp-content/themes/real-estate-lite/inc/customizer.php on line 38
+[03-Nov-2016 02:02:59 UTC] PHP Notice:  Undefined variable: link in /Applications/MAMP/htdocs/naifco/wp-content/themes/real-estate-lite/inc/customizer.php on line 22
+[03-Nov-2016 02:02:59 UTC] PHP Notice:  Undefined variable: link in /Applications/MAMP/htdocs/naifco/wp-content/themes/real-estate-lite/inc/customizer.php on line 22
+[03-Nov-2016 02:02:59 UTC] PHP Notice:  Undefined variable: link in /Applications/MAMP/htdocs/naifco/wp-content/themes/real-estate-lite/inc/customizer.php on line 22
+[03-Nov-2016 02:02:59 UTC] PHP Notice:  Undefined variable: link in /Applications/MAMP/htdocs/naifco/wp-content/themes/real-estate-lite/inc/customizer.php on line 22
+[03-Nov-2016 02:02:59 UTC] PHP Notice:  Undefined variable: link in /Applications/MAMP/htdocs/naifco/wp-content/themes/real-estate-lite/inc/customizer.php on line 22
+[03-Nov-2016 02:02:59 UTC] PHP Notice:  Undefined variable: link in /Applications/MAMP/htdocs/naifco/wp-content/themes/real-estate-lite/inc/customizer.php on line 38
+[03-Nov-2016 02:03:00 UTC] PHP Notice:  Undefined variable: link in /Applications/MAMP/htdocs/naifco/wp-content/themes/real-estate-lite/inc/customizer.php on line 22
+[03-Nov-2016 02:03:00 UTC] PHP Notice:  Undefined variable: link in /Applications/MAMP/htdocs/naifco/wp-content/themes/real-estate-lite/inc/customizer.php on line 22
+[03-Nov-2016 02:03:00 UTC] PHP Notice:  Undefined variable: link in /Applications/MAMP/htdocs/naifco/wp-content/themes/real-estate-lite/inc/customizer.php on line 22
+[03-Nov-2016 02:03:00 UTC] PHP Notice:  Undefined variable: link in /Applications/MAMP/htdocs/naifco/wp-content/themes/real-estate-lite/inc/customizer.php on line 22
+[03-Nov-2016 02:03:00 UTC] PHP Notice:  Undefined variable: link in /Applications/MAMP/htdocs/naifco/wp-content/themes/real-estate-lite/inc/customizer.php on line 22
+[03-Nov-2016 02:03:00 UTC] PHP Notice:  Undefined variable: link in /Applications/MAMP/htdocs/naifco/wp-content/themes/real-estate-lite/inc/customizer.php on line 38
+[03-Nov-2016 02:03:00 UTC] PHP Notice:  Undefined variable: link in /Applications/MAMP/htdocs/naifco/wp-content/themes/real-estate-lite/inc/customizer.php on line 22
+[03-Nov-2016 02:03:00 UTC] PHP Notice:  Undefined variable: link in /Applications/MAMP/htdocs/naifco/wp-content/themes/real-estate-lite/inc/customizer.php on line 22
+[03-Nov-2016 02:03:00 UTC] PHP Notice:  Undefined variable: link in /Applications/MAMP/htdocs/naifco/wp-content/themes/real-estate-lite/inc/customizer.php on line 22
+[03-Nov-2016 02:03:00 UTC] PHP Notice:  Undefined variable: link in /Applications/MAMP/htdocs/naifco/wp-content/themes/real-estate-lite/inc/customizer.php on line 22
+[03-Nov-2016 02:03:00 UTC] PHP Notice:  Undefined variable: link in /Applications/MAMP/htdocs/naifco/wp-content/themes/real-estate-lite/inc/customizer.php on line 22
+[03-Nov-2016 02:03:00 UTC] PHP Notice:  Undefined variable: link in /Applications/MAMP/htdocs/naifco/wp-content/themes/real-estate-lite/inc/customizer.php on line 38
+[03-Nov-2016 02:28:34 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function getField() in /Applications/MAMP/htdocs/naifco/wp-content/themes/real-estate-lite/footer.php:24
+Stack trace:
+#0 /Applications/MAMP/htdocs/naifco/wp-includes/template.php(572): require_once()
+#1 /Applications/MAMP/htdocs/naifco/wp-includes/template.php(531): load_template('/Applications/M...', true)
+#2 /Applications/MAMP/htdocs/naifco/wp-includes/general-template.php(84): locate_template(Array, true)
+#3 /Applications/MAMP/htdocs/naifco/wp-content/themes/real-estate-lite/page.php(38): get_footer()
+#4 /Applications/MAMP/htdocs/naifco/wp-includes/template-loader.php(75): include('/Applications/M...')
+#5 /Applications/MAMP/htdocs/naifco/wp-blog-header.php(19): require_once('/Applications/M...')
+#6 /Applications/MAMP/htdocs/naifco/index.php(17): require('/Applications/M...')
+#7 {main}
+  thrown in /Applications/MAMP/htdocs/naifco/wp-content/themes/real-estate-lite/footer.php on line 24
+[03-Nov-2016 02:28:55 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function getField() in /Applications/MAMP/htdocs/naifco/wp-content/themes/real-estate-lite/footer.php:24
+Stack trace:
+#0 /Applications/MAMP/htdocs/naifco/wp-includes/template.php(572): require_once()
+#1 /Applications/MAMP/htdocs/naifco/wp-includes/template.php(531): load_template('/Applications/M...', true)
+#2 /Applications/MAMP/htdocs/naifco/wp-includes/general-template.php(84): locate_template(Array, true)
+#3 /Applications/MAMP/htdocs/naifco/wp-content/themes/real-estate-lite/page.php(38): get_footer()
+#4 /Applications/MAMP/htdocs/naifco/wp-includes/template-loader.php(75): include('/Applications/M...')
+#5 /Applications/MAMP/htdocs/naifco/wp-blog-header.php(19): require_once('/Applications/M...')
+#6 /Applications/MAMP/htdocs/naifco/index.php(17): require('/Applications/M...')
+#7 {main}
+  thrown in /Applications/MAMP/htdocs/naifco/wp-content/themes/real-estate-lite/footer.php on line 24
+[03-Nov-2016 02:29:57 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function getField() in /Applications/MAMP/htdocs/naifco/wp-content/themes/real-estate-lite/footer.php:22
+Stack trace:
+#0 /Applications/MAMP/htdocs/naifco/wp-includes/template.php(572): require_once()
+#1 /Applications/MAMP/htdocs/naifco/wp-includes/template.php(531): load_template('/Applications/M...', true)
+#2 /Applications/MAMP/htdocs/naifco/wp-includes/general-template.php(84): locate_template(Array, true)
+#3 /Applications/MAMP/htdocs/naifco/wp-content/themes/real-estate-lite/page.php(38): get_footer()
+#4 /Applications/MAMP/htdocs/naifco/wp-includes/template-loader.php(75): include('/Applications/M...')
+#5 /Applications/MAMP/htdocs/naifco/wp-blog-header.php(19): require_once('/Applications/M...')
+#6 /Applications/MAMP/htdocs/naifco/index.php(17): require('/Applications/M...')
+#7 {main}
+  thrown in /Applications/MAMP/htdocs/naifco/wp-content/themes/real-estate-lite/footer.php on line 22
+[03-Nov-2016 14:11:28 UTC] PHP Warning:  An unexpected error occurred. Something may be wrong with WordPress.org or this server&#8217;s configuration. If you continue to have problems, please try the <a href="https://wordpress.org/support/">support forums</a>. (WordPress could not establish a secure connection to WordPress.org. Please contact your server administrator.) in /Applications/MAMP/htdocs/naifco/wp-includes/update.php on line 123
+[03-Nov-2016 14:11:28 UTC] PHP Warning:  An unexpected error occurred. Something may be wrong with WordPress.org or this server&#8217;s configuration. If you continue to have problems, please try the <a href="https://wordpress.org/support/">support forums</a>. (WordPress could not establish a secure connection to WordPress.org. Please contact your server administrator.) in /Applications/MAMP/htdocs/naifco/wp-includes/update.php on line 306
+[03-Nov-2016 14:11:29 UTC] PHP Warning:  An unexpected error occurred. Something may be wrong with WordPress.org or this server&#8217;s configuration. If you continue to have problems, please try the <a href="https://wordpress.org/support/">support forums</a>. (WordPress could not establish a secure connection to WordPress.org. Please contact your server administrator.) in /Applications/MAMP/htdocs/naifco/wp-includes/update.php on line 479
+[15-Nov-2016 16:29:47 UTC] PHP Warning:  An unexpected error occurred. Something may be wrong with WordPress.org or this server&#8217;s configuration. If you continue to have problems, please try the <a href="https://wordpress.org/support/">support forums</a>. (WordPress could not establish a secure connection to WordPress.org. Please contact your server administrator.) in /Applications/MAMP/htdocs/naifco/wp-includes/update.php on line 123
+[15-Nov-2016 16:29:48 UTC] PHP Warning:  An unexpected error occurred. Something may be wrong with WordPress.org or this server&#8217;s configuration. If you continue to have problems, please try the <a href="https://wordpress.org/support/">support forums</a>. (WordPress could not establish a secure connection to WordPress.org. Please contact your server administrator.) in /Applications/MAMP/htdocs/naifco/wp-includes/update.php on line 306
+[15-Nov-2016 16:29:48 UTC] PHP Warning:  An unexpected error occurred. Something may be wrong with WordPress.org or this server&#8217;s configuration. If you continue to have problems, please try the <a href="https://wordpress.org/support/">support forums</a>. (WordPress could not establish a secure connection to WordPress.org. Please contact your server administrator.) in /Applications/MAMP/htdocs/naifco/wp-includes/update.php on line 479
+[15-Nov-2016 16:29:49 UTC] PHP Warning:  An unexpected error occurred. Something may be wrong with WordPress.org or this server&#8217;s configuration. If you continue to have problems, please try the <a href="https://wordpress.org/support/">support forums</a>. (WordPress could not establish a secure connection to WordPress.org. Please contact your server administrator.) in /Applications/MAMP/htdocs/naifco/wp-includes/update.php on line 479
+[15-Nov-2016 16:29:51 UTC] PHP Notice: A feed could not be found at http://wordpress.org/news/feed/. A feed with an invalid mime type may fall victim to this error, or SimplePie was unable to auto-discover it.. Use force_feed() if you are certain this URL is a real feed. in /Applications/MAMP/htdocs/naifco/wp-includes/class-simplepie.php on line 1555
+[15-Nov-2016 16:29:51 UTC] PHP Notice: A feed could not be found at http://wordpress.org/plugins/rss/browse/popular/. A feed with an invalid mime type may fall victim to this error, or SimplePie was unable to auto-discover it.. Use force_feed() if you are certain this URL is a real feed. in /Applications/MAMP/htdocs/naifco/wp-includes/class-simplepie.php on line 1555
+[16-Nov-2016 15:07:00 UTC] PHP Warning:  An unexpected error occurred. Something may be wrong with WordPress.org or this server&#8217;s configuration. If you continue to have problems, please try the <a href="https://wordpress.org/support/">support forums</a>. (WordPress could not establish a secure connection to WordPress.org. Please contact your server administrator.) in /Applications/MAMP/htdocs/naifco/wp-includes/update.php on line 123
+[16-Nov-2016 15:07:04 UTC] PHP Warning:  An unexpected error occurred. Something may be wrong with WordPress.org or this server&#8217;s configuration. If you continue to have problems, please try the <a href="https://wordpress.org/support/">support forums</a>. (WordPress could not establish a secure connection to WordPress.org. Please contact your server administrator.) in /Applications/MAMP/htdocs/naifco/wp-includes/update.php on line 306
+[17-Nov-2016 02:28:49 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function getField() in /Applications/MAMP/htdocs/naifco/wp-content/themes/real-estate-lite/page-about.php:20
+Stack trace:
+#0 /Applications/MAMP/htdocs/naifco/wp-includes/template-loader.php(75): include()
+#1 /Applications/MAMP/htdocs/naifco/wp-blog-header.php(19): require_once('/Applications/M...')
+#2 /Applications/MAMP/htdocs/naifco/index.php(17): require('/Applications/M...')
+#3 {main}
+  thrown in /Applications/MAMP/htdocs/naifco/wp-content/themes/real-estate-lite/page-about.php on line 20
+[17-Nov-2016 02:29:15 UTC] PHP Parse error:  syntax error, unexpected '<', expecting end of file in /Applications/MAMP/htdocs/naifco/wp-content/themes/real-estate-lite/page-about.php on line 22
+[17-Nov-2016 02:29:44 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function getField() in /Applications/MAMP/htdocs/naifco/wp-content/themes/real-estate-lite/page-about.php:20
+Stack trace:
+#0 /Applications/MAMP/htdocs/naifco/wp-includes/template-loader.php(75): include()
+#1 /Applications/MAMP/htdocs/naifco/wp-blog-header.php(19): require_once('/Applications/M...')
+#2 /Applications/MAMP/htdocs/naifco/index.php(17): require('/Applications/M...')
+#3 {main}
+  thrown in /Applications/MAMP/htdocs/naifco/wp-content/themes/real-estate-lite/page-about.php on line 20
+[17-Nov-2016 02:29:51 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function getField() in /Applications/MAMP/htdocs/naifco/wp-content/themes/real-estate-lite/page-about.php:20
+Stack trace:
+#0 /Applications/MAMP/htdocs/naifco/wp-includes/template-loader.php(75): include()
+#1 /Applications/MAMP/htdocs/naifco/wp-blog-header.php(19): require_once('/Applications/M...')
+#2 /Applications/MAMP/htdocs/naifco/index.php(17): require('/Applications/M...')
+#3 {main}
+  thrown in /Applications/MAMP/htdocs/naifco/wp-content/themes/real-estate-lite/page-about.php on line 20
+[17-Nov-2016 02:29:52 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function getField() in /Applications/MAMP/htdocs/naifco/wp-content/themes/real-estate-lite/page-about.php:20
+Stack trace:
+#0 /Applications/MAMP/htdocs/naifco/wp-includes/template-loader.php(75): include()
+#1 /Applications/MAMP/htdocs/naifco/wp-blog-header.php(19): require_once('/Applications/M...')
+#2 /Applications/MAMP/htdocs/naifco/index.php(17): require('/Applications/M...')
+#3 {main}
+  thrown in /Applications/MAMP/htdocs/naifco/wp-content/themes/real-estate-lite/page-about.php on line 20
+[17-Nov-2016 02:29:53 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function getField() in /Applications/MAMP/htdocs/naifco/wp-content/themes/real-estate-lite/page-about.php:20
+Stack trace:
+#0 /Applications/MAMP/htdocs/naifco/wp-includes/template-loader.php(75): include()
+#1 /Applications/MAMP/htdocs/naifco/wp-blog-header.php(19): require_once('/Applications/M...')
+#2 /Applications/MAMP/htdocs/naifco/index.php(17): require('/Applications/M...')
+#3 {main}
+  thrown in /Applications/MAMP/htdocs/naifco/wp-content/themes/real-estate-lite/page-about.php on line 20
+[17-Nov-2016 02:30:10 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function getField() in /Applications/MAMP/htdocs/naifco/wp-content/themes/real-estate-lite/page-about.php:20
+Stack trace:
+#0 /Applications/MAMP/htdocs/naifco/wp-includes/template-loader.php(75): include()
+#1 /Applications/MAMP/htdocs/naifco/wp-blog-header.php(19): require_once('/Applications/M...')
+#2 /Applications/MAMP/htdocs/naifco/index.php(17): require('/Applications/M...')
+#3 {main}
+  thrown in /Applications/MAMP/htdocs/naifco/wp-content/themes/real-estate-lite/page-about.php on line 20
+[17-Nov-2016 02:30:15 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function getField() in /Applications/MAMP/htdocs/naifco/wp-content/themes/real-estate-lite/page-about.php:20
+Stack trace:
+#0 /Applications/MAMP/htdocs/naifco/wp-includes/template-loader.php(75): include()
+#1 /Applications/MAMP/htdocs/naifco/wp-blog-header.php(19): require_once('/Applications/M...')
+#2 /Applications/MAMP/htdocs/naifco/index.php(17): require('/Applications/M...')
+#3 {main}
+  thrown in /Applications/MAMP/htdocs/naifco/wp-content/themes/real-estate-lite/page-about.php on line 20
+[17-Nov-2016 02:30:16 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function getField() in /Applications/MAMP/htdocs/naifco/wp-content/themes/real-estate-lite/page-about.php:20
+Stack trace:
+#0 /Applications/MAMP/htdocs/naifco/wp-includes/template-loader.php(75): include()
+#1 /Applications/MAMP/htdocs/naifco/wp-blog-header.php(19): require_once('/Applications/M...')
+#2 /Applications/MAMP/htdocs/naifco/index.php(17): require('/Applications/M...')
+#3 {main}
+  thrown in /Applications/MAMP/htdocs/naifco/wp-content/themes/real-estate-lite/page-about.php on line 20
+[17-Nov-2016 02:30:17 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function getField() in /Applications/MAMP/htdocs/naifco/wp-content/themes/real-estate-lite/page-about.php:20
+Stack trace:
+#0 /Applications/MAMP/htdocs/naifco/wp-includes/template-loader.php(75): include()
+#1 /Applications/MAMP/htdocs/naifco/wp-blog-header.php(19): require_once('/Applications/M...')
+#2 /Applications/MAMP/htdocs/naifco/index.php(17): require('/Applications/M...')
+#3 {main}
+  thrown in /Applications/MAMP/htdocs/naifco/wp-content/themes/real-estate-lite/page-about.php on line 20
+[17-Nov-2016 02:32:28 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function getField() in /Applications/MAMP/htdocs/naifco/wp-content/themes/real-estate-lite/page-about.php:20
+Stack trace:
+#0 /Applications/MAMP/htdocs/naifco/wp-includes/template-loader.php(75): include()
+#1 /Applications/MAMP/htdocs/naifco/wp-blog-header.php(19): require_once('/Applications/M...')
+#2 /Applications/MAMP/htdocs/naifco/index.php(17): require('/Applications/M...')
+#3 {main}
+  thrown in /Applications/MAMP/htdocs/naifco/wp-content/themes/real-estate-lite/page-about.php on line 20
+[17-Nov-2016 02:44:00 UTC] PHP Parse error:  syntax error, unexpected '<', expecting end of file in /Applications/MAMP/htdocs/naifco/wp-content/themes/real-estate-lite/page-about.php on line 21
+[17-Nov-2016 02:45:12 UTC] PHP Parse error:  syntax error, unexpected '<', expecting end of file in /Applications/MAMP/htdocs/naifco/wp-content/themes/real-estate-lite/page-about.php on line 22
+[17-Nov-2016 02:45:14 UTC] PHP Parse error:  syntax error, unexpected '<', expecting end of file in /Applications/MAMP/htdocs/naifco/wp-content/themes/real-estate-lite/page-about.php on line 22
+[17-Nov-2016 02:45:54 UTC] PHP Parse error:  syntax error, unexpected '<', expecting end of file in /Applications/MAMP/htdocs/naifco/wp-content/themes/real-estate-lite/page-about.php on line 22
+[17-Nov-2016 02:46:49 UTC] PHP Notice:  Undefined variable: feature_project_header in /Applications/MAMP/htdocs/naifco/wp-content/themes/real-estate-lite/page-about.php on line 22
+[17-Nov-2016 03:19:19 UTC] PHP Parse error:  syntax error, unexpected end of file in /Applications/MAMP/htdocs/naifco/wp-content/themes/real-estate-lite/page-about.php on line 64
+[17-Nov-2016 03:20:09 UTC] PHP Parse error:  syntax error, unexpected end of file in /Applications/MAMP/htdocs/naifco/wp-content/themes/real-estate-lite/page-about.php on line 64
+[17-Nov-2016 03:20:17 UTC] PHP Parse error:  syntax error, unexpected end of file in /Applications/MAMP/htdocs/naifco/wp-content/themes/real-estate-lite/page-about.php on line 63
+[17-Nov-2016 03:20:27 UTC] PHP Parse error:  syntax error, unexpected end of file in /Applications/MAMP/htdocs/naifco/wp-content/themes/real-estate-lite/page-about.php on line 63
+[17-Nov-2016 03:20:29 UTC] PHP Parse error:  syntax error, unexpected end of file in /Applications/MAMP/htdocs/naifco/wp-content/themes/real-estate-lite/page-about.php on line 63
+[17-Nov-2016 03:20:35 UTC] PHP Parse error:  syntax error, unexpected end of file in /Applications/MAMP/htdocs/naifco/wp-content/themes/real-estate-lite/page-about.php on line 63
+[17-Nov-2016 03:21:51 UTC] PHP Notice:  Undefined variable: about_section_title in /Applications/MAMP/htdocs/naifco/wp-content/themes/real-estate-lite/page-about.php on line 28
+[17-Nov-2016 03:21:51 UTC] PHP Notice:  Undefined variable: about_section_body in /Applications/MAMP/htdocs/naifco/wp-content/themes/real-estate-lite/page-about.php on line 29
+[17-Nov-2016 03:21:51 UTC] PHP Notice:  Undefined variable: about_section_link in /Applications/MAMP/htdocs/naifco/wp-content/themes/real-estate-lite/page-about.php on line 30
+[17-Nov-2016 03:21:51 UTC] PHP Notice:  Undefined variable: about_section_link_text in /Applications/MAMP/htdocs/naifco/wp-content/themes/real-estate-lite/page-about.php on line 30
+[17-Nov-2016 03:22:00 UTC] PHP Parse error:  syntax error, unexpected end of file in /Applications/MAMP/htdocs/naifco/wp-content/themes/real-estate-lite/page-about.php on line 63
+[17-Nov-2016 03:22:08 UTC] PHP Parse error:  syntax error, unexpected end of file in /Applications/MAMP/htdocs/naifco/wp-content/themes/real-estate-lite/page-about.php on line 52
+[17-Nov-2016 03:22:18 UTC] PHP Parse error:  syntax error, unexpected end of file in /Applications/MAMP/htdocs/naifco/wp-content/themes/real-estate-lite/page-about.php on line 63
+[17-Nov-2016 03:23:20 UTC] PHP Parse error:  syntax error, unexpected end of file in /Applications/MAMP/htdocs/naifco/wp-content/themes/real-estate-lite/page-about.php on line 63
+[19-Nov-2016 02:18:23 UTC] PHP Parse error:  syntax error, unexpected '<' in /Applications/MAMP/htdocs/naifco/wp-content/themes/real-estate-lite/page-about.php on line 33
+[19-Nov-2016 02:41:37 UTC] PHP Parse error:  syntax error, unexpected '<', expecting end of file in /Applications/MAMP/htdocs/naifco/wp-content/themes/real-estate-lite/page-about.php on line 26
+[19-Nov-2016 02:47:14 UTC] PHP Parse error:  syntax error, unexpected end of file in /Applications/MAMP/htdocs/naifco/wp-content/themes/real-estate-lite/page-about.php on line 43
+[23-Nov-2016 15:32:36 UTC] PHP Notice:  Undefined variable: about_section_bgImg in /Applications/MAMP/htdocs/naifco/wp-content/themes/real-estate-lite/page-featured-projects.php on line 24
+[23-Nov-2016 15:32:36 UTC] PHP Notice:  Undefined variable: about_section_title in /Applications/MAMP/htdocs/naifco/wp-content/themes/real-estate-lite/page-featured-projects.php on line 25
+[23-Nov-2016 15:32:36 UTC] PHP Notice:  Undefined variable: about_section_body in /Applications/MAMP/htdocs/naifco/wp-content/themes/real-estate-lite/page-featured-projects.php on line 26
+[23-Nov-2016 15:32:36 UTC] PHP Notice:  Undefined variable: about_section_link in /Applications/MAMP/htdocs/naifco/wp-content/themes/real-estate-lite/page-featured-projects.php on line 27
+[23-Nov-2016 15:32:36 UTC] PHP Notice:  Undefined variable: about_section_link_text in /Applications/MAMP/htdocs/naifco/wp-content/themes/real-estate-lite/page-featured-projects.php on line 27
+[23-Nov-2016 15:32:36 UTC] PHP Notice:  Undefined variable: about_section_bgImg in /Applications/MAMP/htdocs/naifco/wp-content/themes/real-estate-lite/page-featured-projects.php on line 29
+[23-Nov-2016 15:32:36 UTC] PHP Notice:  Undefined variable: about_section_title in /Applications/MAMP/htdocs/naifco/wp-content/themes/real-estate-lite/page-featured-projects.php on line 30
+[23-Nov-2016 15:32:36 UTC] PHP Notice:  Undefined variable: about_section_body in /Applications/MAMP/htdocs/naifco/wp-content/themes/real-estate-lite/page-featured-projects.php on line 31
+[23-Nov-2016 15:32:36 UTC] PHP Notice:  Undefined variable: about_section_link in /Applications/MAMP/htdocs/naifco/wp-content/themes/real-estate-lite/page-featured-projects.php on line 32
+[23-Nov-2016 15:32:36 UTC] PHP Notice:  Undefined variable: about_section_link_text in /Applications/MAMP/htdocs/naifco/wp-content/themes/real-estate-lite/page-featured-projects.php on line 32
+[23-Nov-2016 15:32:36 UTC] PHP Notice:  Undefined variable: about_section_bgImg in /Applications/MAMP/htdocs/naifco/wp-content/themes/real-estate-lite/page-featured-projects.php on line 34
+[23-Nov-2016 15:32:36 UTC] PHP Notice:  Undefined variable: about_section_title in /Applications/MAMP/htdocs/naifco/wp-content/themes/real-estate-lite/page-featured-projects.php on line 35
+[23-Nov-2016 15:32:36 UTC] PHP Notice:  Undefined variable: about_section_body in /Applications/MAMP/htdocs/naifco/wp-content/themes/real-estate-lite/page-featured-projects.php on line 36
+[23-Nov-2016 15:32:36 UTC] PHP Notice:  Undefined variable: about_section_link in /Applications/MAMP/htdocs/naifco/wp-content/themes/real-estate-lite/page-featured-projects.php on line 37
+[23-Nov-2016 15:32:36 UTC] PHP Notice:  Undefined variable: about_section_link_text in /Applications/MAMP/htdocs/naifco/wp-content/themes/real-estate-lite/page-featured-projects.php on line 37
+[23-Nov-2016 15:32:36 UTC] PHP Notice:  Undefined variable: about_section_bgImg in /Applications/MAMP/htdocs/naifco/wp-content/themes/real-estate-lite/page-featured-projects.php on line 39
+[23-Nov-2016 15:32:36 UTC] PHP Notice:  Undefined variable: about_section_title in /Applications/MAMP/htdocs/naifco/wp-content/themes/real-estate-lite/page-featured-projects.php on line 40
+[23-Nov-2016 15:32:36 UTC] PHP Notice:  Undefined variable: about_section_body in /Applications/MAMP/htdocs/naifco/wp-content/themes/real-estate-lite/page-featured-projects.php on line 41
+[23-Nov-2016 15:32:36 UTC] PHP Notice:  Undefined variable: about_section_link in /Applications/MAMP/htdocs/naifco/wp-content/themes/real-estate-lite/page-featured-projects.php on line 42
+[23-Nov-2016 15:32:36 UTC] PHP Notice:  Undefined variable: about_section_link_text in /Applications/MAMP/htdocs/naifco/wp-content/themes/real-estate-lite/page-featured-projects.php on line 42
+[23-Nov-2016 16:07:21 UTC] PHP Notice:  Undefined variable: project_bg_image in /Applications/MAMP/htdocs/naifco/wp-content/themes/real-estate-lite/page-featured-projects.php on line 32
+[23-Nov-2016 16:07:21 UTC] PHP Notice:  Undefined variable: about_section_title in /Applications/MAMP/htdocs/naifco/wp-content/themes/real-estate-lite/page-featured-projects.php on line 33
+[23-Nov-2016 16:07:21 UTC] PHP Notice:  Undefined variable: about_section_body in /Applications/MAMP/htdocs/naifco/wp-content/themes/real-estate-lite/page-featured-projects.php on line 34
+[23-Nov-2016 16:07:21 UTC] PHP Notice:  Undefined variable: about_section_link_text in /Applications/MAMP/htdocs/naifco/wp-content/themes/real-estate-lite/page-featured-projects.php on line 35
+[23-Nov-2016 16:07:36 UTC] PHP Notice:  Undefined variable: project_bg_image in /Applications/MAMP/htdocs/naifco/wp-content/themes/real-estate-lite/page-featured-projects.php on line 32
+[23-Nov-2016 16:07:36 UTC] PHP Notice:  Undefined variable: about_section_link_text in /Applications/MAMP/htdocs/naifco/wp-content/themes/real-estate-lite/page-featured-projects.php on line 35
+[23-Nov-2016 16:07:53 UTC] PHP Notice:  Undefined variable: project_bg_image in /Applications/MAMP/htdocs/naifco/wp-content/themes/real-estate-lite/page-featured-projects.php on line 32
+[23-Nov-2016 16:08:13 UTC] PHP Notice:  Undefined variable: project_bg_image in /Applications/MAMP/htdocs/naifco/wp-content/themes/real-estate-lite/page-featured-projects.php on line 32
+[24-Nov-2016 02:57:45 UTC] PHP Notice:  Undefined variable: property_title in /Applications/MAMP/htdocs/naifco/wp-content/themes/real-estate-lite/page-properties.php on line 32
+[24-Nov-2016 16:55:55 UTC] PHP Warning:  An unexpected error occurred. Something may be wrong with WordPress.org or this server&#8217;s configuration. If you continue to have problems, please try the <a href="https://wordpress.org/support/">support forums</a>. (WordPress could not establish a secure connection to WordPress.org. Please contact your server administrator.) in /Applications/MAMP/htdocs/naifco/wp-includes/update.php on line 479
+[24-Nov-2016 16:55:55 UTC] PHP Warning:  An unexpected error occurred. Something may be wrong with WordPress.org or this server&#8217;s configuration. If you continue to have problems, please try the <a href="https://wordpress.org/support/">support forums</a>. (WordPress could not establish a secure connection to WordPress.org. Please contact your server administrator.) in /Applications/MAMP/htdocs/naifco/wp-includes/update.php on line 123
+[24-Nov-2016 16:55:55 UTC] PHP Warning:  An unexpected error occurred. Something may be wrong with WordPress.org or this server&#8217;s configuration. If you continue to have problems, please try the <a href="https://wordpress.org/support/">support forums</a>. (WordPress could not establish a secure connection to WordPress.org. Please contact your server administrator.) in /Applications/MAMP/htdocs/naifco/wp-includes/update.php on line 306
+[01-Dec-2016 03:20:07 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; EsuAdmin has a deprecated constructor in /Applications/MAMP/htdocs/naifco/wp-content/plugins/easy-sign-up/lib/esu-admin-class.php on line 10
+[01-Dec-2016 03:20:07 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; esuAkismet has a deprecated constructor in /Applications/MAMP/htdocs/naifco/wp-content/plugins/easy-sign-up/lib/esu-akismet.php on line 5
+[01-Dec-2016 03:20:07 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; EsuAdmin has a deprecated constructor in /Applications/MAMP/htdocs/naifco/wp-content/plugins/easy-sign-up/lib/esu-admin-class.php on line 10
+[01-Dec-2016 03:20:07 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; esuAkismet has a deprecated constructor in /Applications/MAMP/htdocs/naifco/wp-content/plugins/easy-sign-up/lib/esu-akismet.php on line 5
+[01-Dec-2016 03:20:11 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; EsuAdmin has a deprecated constructor in /Applications/MAMP/htdocs/naifco/wp-content/plugins/easy-sign-up/lib/esu-admin-class.php on line 10
+[01-Dec-2016 03:20:11 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; esuAkismet has a deprecated constructor in /Applications/MAMP/htdocs/naifco/wp-content/plugins/easy-sign-up/lib/esu-akismet.php on line 5
+[01-Dec-2016 03:20:26 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; EsuAdmin has a deprecated constructor in /Applications/MAMP/htdocs/naifco/wp-content/plugins/easy-sign-up/lib/esu-admin-class.php on line 10
+[01-Dec-2016 03:20:26 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; esuAkismet has a deprecated constructor in /Applications/MAMP/htdocs/naifco/wp-content/plugins/easy-sign-up/lib/esu-akismet.php on line 5
+[01-Dec-2016 03:20:29 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; EsuAdmin has a deprecated constructor in /Applications/MAMP/htdocs/naifco/wp-content/plugins/easy-sign-up/lib/esu-admin-class.php on line 10
+[01-Dec-2016 03:20:29 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; esuAkismet has a deprecated constructor in /Applications/MAMP/htdocs/naifco/wp-content/plugins/easy-sign-up/lib/esu-akismet.php on line 5
+[01-Dec-2016 03:20:44 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; EsuAdmin has a deprecated constructor in /Applications/MAMP/htdocs/naifco/wp-content/plugins/easy-sign-up/lib/esu-admin-class.php on line 10
+[01-Dec-2016 03:20:44 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; esuAkismet has a deprecated constructor in /Applications/MAMP/htdocs/naifco/wp-content/plugins/easy-sign-up/lib/esu-akismet.php on line 5
+[01-Dec-2016 03:20:45 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; EsuAdmin has a deprecated constructor in /Applications/MAMP/htdocs/naifco/wp-content/plugins/easy-sign-up/lib/esu-admin-class.php on line 10
+[01-Dec-2016 03:20:45 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; esuAkismet has a deprecated constructor in /Applications/MAMP/htdocs/naifco/wp-content/plugins/easy-sign-up/lib/esu-akismet.php on line 5
+[01-Dec-2016 03:21:19 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; EsuAdmin has a deprecated constructor in /Applications/MAMP/htdocs/naifco/wp-content/plugins/easy-sign-up/lib/esu-admin-class.php on line 10
+[01-Dec-2016 03:21:19 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; esuAkismet has a deprecated constructor in /Applications/MAMP/htdocs/naifco/wp-content/plugins/easy-sign-up/lib/esu-akismet.php on line 5
+[01-Dec-2016 03:21:46 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; EsuAdmin has a deprecated constructor in /Applications/MAMP/htdocs/naifco/wp-content/plugins/easy-sign-up/lib/esu-admin-class.php on line 10
+[01-Dec-2016 03:21:46 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; esuAkismet has a deprecated constructor in /Applications/MAMP/htdocs/naifco/wp-content/plugins/easy-sign-up/lib/esu-akismet.php on line 5
+[01-Dec-2016 03:22:08 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; EsuAdmin has a deprecated constructor in /Applications/MAMP/htdocs/naifco/wp-content/plugins/easy-sign-up/lib/esu-admin-class.php on line 10
+[01-Dec-2016 03:22:08 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; esuAkismet has a deprecated constructor in /Applications/MAMP/htdocs/naifco/wp-content/plugins/easy-sign-up/lib/esu-akismet.php on line 5
+[01-Dec-2016 03:23:27 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; EsuAdmin has a deprecated constructor in /Applications/MAMP/htdocs/naifco/wp-content/plugins/easy-sign-up/lib/esu-admin-class.php on line 10
+[01-Dec-2016 03:23:27 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; esuAkismet has a deprecated constructor in /Applications/MAMP/htdocs/naifco/wp-content/plugins/easy-sign-up/lib/esu-akismet.php on line 5
+[01-Dec-2016 03:23:47 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; EsuAdmin has a deprecated constructor in /Applications/MAMP/htdocs/naifco/wp-content/plugins/easy-sign-up/lib/esu-admin-class.php on line 10
+[01-Dec-2016 03:23:47 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; esuAkismet has a deprecated constructor in /Applications/MAMP/htdocs/naifco/wp-content/plugins/easy-sign-up/lib/esu-akismet.php on line 5
+[01-Dec-2016 03:23:58 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; EsuAdmin has a deprecated constructor in /Applications/MAMP/htdocs/naifco/wp-content/plugins/easy-sign-up/lib/esu-admin-class.php on line 10
+[01-Dec-2016 03:23:58 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; esuAkismet has a deprecated constructor in /Applications/MAMP/htdocs/naifco/wp-content/plugins/easy-sign-up/lib/esu-akismet.php on line 5
+[01-Dec-2016 03:24:05 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; EsuAdmin has a deprecated constructor in /Applications/MAMP/htdocs/naifco/wp-content/plugins/easy-sign-up/lib/esu-admin-class.php on line 10
+[01-Dec-2016 03:24:05 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; esuAkismet has a deprecated constructor in /Applications/MAMP/htdocs/naifco/wp-content/plugins/easy-sign-up/lib/esu-akismet.php on line 5
+[01-Dec-2016 03:24:53 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; EsuAdmin has a deprecated constructor in /Applications/MAMP/htdocs/naifco/wp-content/plugins/easy-sign-up/lib/esu-admin-class.php on line 10
+[01-Dec-2016 03:24:53 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; esuAkismet has a deprecated constructor in /Applications/MAMP/htdocs/naifco/wp-content/plugins/easy-sign-up/lib/esu-akismet.php on line 5
+[01-Dec-2016 03:25:53 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; EsuAdmin has a deprecated constructor in /Applications/MAMP/htdocs/naifco/wp-content/plugins/easy-sign-up/lib/esu-admin-class.php on line 10
+[01-Dec-2016 03:25:53 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; esuAkismet has a deprecated constructor in /Applications/MAMP/htdocs/naifco/wp-content/plugins/easy-sign-up/lib/esu-akismet.php on line 5
+[01-Dec-2016 03:25:54 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; EsuAdmin has a deprecated constructor in /Applications/MAMP/htdocs/naifco/wp-content/plugins/easy-sign-up/lib/esu-admin-class.php on line 10
+[01-Dec-2016 03:25:54 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; esuAkismet has a deprecated constructor in /Applications/MAMP/htdocs/naifco/wp-content/plugins/easy-sign-up/lib/esu-akismet.php on line 5
+[01-Dec-2016 03:26:19 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; EsuAdmin has a deprecated constructor in /Applications/MAMP/htdocs/naifco/wp-content/plugins/easy-sign-up/lib/esu-admin-class.php on line 10
+[01-Dec-2016 03:26:19 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; esuAkismet has a deprecated constructor in /Applications/MAMP/htdocs/naifco/wp-content/plugins/easy-sign-up/lib/esu-akismet.php on line 5
+[01-Dec-2016 03:27:28 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; EsuAdmin has a deprecated constructor in /Applications/MAMP/htdocs/naifco/wp-content/plugins/easy-sign-up/lib/esu-admin-class.php on line 10
+[01-Dec-2016 03:27:28 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; esuAkismet has a deprecated constructor in /Applications/MAMP/htdocs/naifco/wp-content/plugins/easy-sign-up/lib/esu-akismet.php on line 5
+[01-Dec-2016 03:28:37 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; EsuAdmin has a deprecated constructor in /Applications/MAMP/htdocs/naifco/wp-content/plugins/easy-sign-up/lib/esu-admin-class.php on line 10
+[01-Dec-2016 03:28:37 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; esuAkismet has a deprecated constructor in /Applications/MAMP/htdocs/naifco/wp-content/plugins/easy-sign-up/lib/esu-akismet.php on line 5
+[01-Dec-2016 03:28:56 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; EsuAdmin has a deprecated constructor in /Applications/MAMP/htdocs/naifco/wp-content/plugins/easy-sign-up/lib/esu-admin-class.php on line 10
+[01-Dec-2016 03:28:56 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; esuAkismet has a deprecated constructor in /Applications/MAMP/htdocs/naifco/wp-content/plugins/easy-sign-up/lib/esu-akismet.php on line 5
+[01-Dec-2016 03:29:12 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; EsuAdmin has a deprecated constructor in /Applications/MAMP/htdocs/naifco/wp-content/plugins/easy-sign-up/lib/esu-admin-class.php on line 10
+[01-Dec-2016 03:29:12 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; esuAkismet has a deprecated constructor in /Applications/MAMP/htdocs/naifco/wp-content/plugins/easy-sign-up/lib/esu-akismet.php on line 5
+[01-Dec-2016 03:29:14 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; EsuAdmin has a deprecated constructor in /Applications/MAMP/htdocs/naifco/wp-content/plugins/easy-sign-up/lib/esu-admin-class.php on line 10
+[01-Dec-2016 03:29:14 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; esuAkismet has a deprecated constructor in /Applications/MAMP/htdocs/naifco/wp-content/plugins/easy-sign-up/lib/esu-akismet.php on line 5
+[01-Dec-2016 03:29:16 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; EsuAdmin has a deprecated constructor in /Applications/MAMP/htdocs/naifco/wp-content/plugins/easy-sign-up/lib/esu-admin-class.php on line 10
+[01-Dec-2016 03:29:16 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; esuAkismet has a deprecated constructor in /Applications/MAMP/htdocs/naifco/wp-content/plugins/easy-sign-up/lib/esu-akismet.php on line 5
+[01-Dec-2016 03:29:44 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; EsuAdmin has a deprecated constructor in /Applications/MAMP/htdocs/naifco/wp-content/plugins/easy-sign-up/lib/esu-admin-class.php on line 10
+[01-Dec-2016 03:29:44 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; esuAkismet has a deprecated constructor in /Applications/MAMP/htdocs/naifco/wp-content/plugins/easy-sign-up/lib/esu-akismet.php on line 5
+[01-Dec-2016 03:30:24 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; EsuAdmin has a deprecated constructor in /Applications/MAMP/htdocs/naifco/wp-content/plugins/easy-sign-up/lib/esu-admin-class.php on line 10
+[01-Dec-2016 03:30:24 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; esuAkismet has a deprecated constructor in /Applications/MAMP/htdocs/naifco/wp-content/plugins/easy-sign-up/lib/esu-akismet.php on line 5
+[01-Dec-2016 03:31:25 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; EsuAdmin has a deprecated constructor in /Applications/MAMP/htdocs/naifco/wp-content/plugins/easy-sign-up/lib/esu-admin-class.php on line 10
+[01-Dec-2016 03:31:25 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; esuAkismet has a deprecated constructor in /Applications/MAMP/htdocs/naifco/wp-content/plugins/easy-sign-up/lib/esu-akismet.php on line 5
+[01-Dec-2016 03:31:26 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; EsuAdmin has a deprecated constructor in /Applications/MAMP/htdocs/naifco/wp-content/plugins/easy-sign-up/lib/esu-admin-class.php on line 10
+[01-Dec-2016 03:31:26 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; esuAkismet has a deprecated constructor in /Applications/MAMP/htdocs/naifco/wp-content/plugins/easy-sign-up/lib/esu-akismet.php on line 5
+[01-Dec-2016 03:32:29 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; EsuAdmin has a deprecated constructor in /Applications/MAMP/htdocs/naifco/wp-content/plugins/easy-sign-up/lib/esu-admin-class.php on line 10
+[01-Dec-2016 03:32:29 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; esuAkismet has a deprecated constructor in /Applications/MAMP/htdocs/naifco/wp-content/plugins/easy-sign-up/lib/esu-akismet.php on line 5
+[01-Dec-2016 03:34:43 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; EsuAdmin has a deprecated constructor in /Applications/MAMP/htdocs/naifco/wp-content/plugins/easy-sign-up/lib/esu-admin-class.php on line 10
+[01-Dec-2016 03:34:43 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; esuAkismet has a deprecated constructor in /Applications/MAMP/htdocs/naifco/wp-content/plugins/easy-sign-up/lib/esu-akismet.php on line 5
+[01-Dec-2016 03:36:50 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; EsuAdmin has a deprecated constructor in /Applications/MAMP/htdocs/naifco/wp-content/plugins/easy-sign-up/lib/esu-admin-class.php on line 10
+[01-Dec-2016 03:36:50 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; esuAkismet has a deprecated constructor in /Applications/MAMP/htdocs/naifco/wp-content/plugins/easy-sign-up/lib/esu-akismet.php on line 5
+[01-Dec-2016 03:38:52 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; EsuAdmin has a deprecated constructor in /Applications/MAMP/htdocs/naifco/wp-content/plugins/easy-sign-up/lib/esu-admin-class.php on line 10
+[01-Dec-2016 03:38:52 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; esuAkismet has a deprecated constructor in /Applications/MAMP/htdocs/naifco/wp-content/plugins/easy-sign-up/lib/esu-akismet.php on line 5
+[01-Dec-2016 03:40:52 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; EsuAdmin has a deprecated constructor in /Applications/MAMP/htdocs/naifco/wp-content/plugins/easy-sign-up/lib/esu-admin-class.php on line 10
+[01-Dec-2016 03:40:52 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; esuAkismet has a deprecated constructor in /Applications/MAMP/htdocs/naifco/wp-content/plugins/easy-sign-up/lib/esu-akismet.php on line 5
+[01-Dec-2016 03:42:53 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; EsuAdmin has a deprecated constructor in /Applications/MAMP/htdocs/naifco/wp-content/plugins/easy-sign-up/lib/esu-admin-class.php on line 10
+[01-Dec-2016 03:42:53 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; esuAkismet has a deprecated constructor in /Applications/MAMP/htdocs/naifco/wp-content/plugins/easy-sign-up/lib/esu-akismet.php on line 5
+[01-Dec-2016 03:45:07 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; EsuAdmin has a deprecated constructor in /Applications/MAMP/htdocs/naifco/wp-content/plugins/easy-sign-up/lib/esu-admin-class.php on line 10
+[01-Dec-2016 03:45:07 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; esuAkismet has a deprecated constructor in /Applications/MAMP/htdocs/naifco/wp-content/plugins/easy-sign-up/lib/esu-akismet.php on line 5
+[01-Dec-2016 03:45:17 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; EsuAdmin has a deprecated constructor in /Applications/MAMP/htdocs/naifco/wp-content/plugins/easy-sign-up/lib/esu-admin-class.php on line 10
+[01-Dec-2016 03:45:17 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; esuAkismet has a deprecated constructor in /Applications/MAMP/htdocs/naifco/wp-content/plugins/easy-sign-up/lib/esu-akismet.php on line 5
+[01-Dec-2016 03:45:21 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; EsuAdmin has a deprecated constructor in /Applications/MAMP/htdocs/naifco/wp-content/plugins/easy-sign-up/lib/esu-admin-class.php on line 10
+[01-Dec-2016 03:45:21 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; esuAkismet has a deprecated constructor in /Applications/MAMP/htdocs/naifco/wp-content/plugins/easy-sign-up/lib/esu-akismet.php on line 5
+[01-Dec-2016 03:45:21 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /Applications/MAMP/htdocs/naifco/wp-content/plugins/easy-sign-up/lib/esu-admin-class.php:10) in /Applications/MAMP/htdocs/naifco/wp-includes/pluggable.php on line 1174
+[01-Dec-2016 03:45:21 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /Applications/MAMP/htdocs/naifco/wp-content/plugins/easy-sign-up/lib/esu-admin-class.php:10) in /Applications/MAMP/htdocs/naifco/wp-includes/pluggable.php on line 1174
+[01-Dec-2016 03:46:10 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; EsuAdmin has a deprecated constructor in /Applications/MAMP/htdocs/naifco/wp-content/plugins/easy-sign-up/lib/esu-admin-class.php on line 10
+[01-Dec-2016 03:46:10 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; esuAkismet has a deprecated constructor in /Applications/MAMP/htdocs/naifco/wp-content/plugins/easy-sign-up/lib/esu-akismet.php on line 5
+[01-Dec-2016 03:46:16 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; EsuAdmin has a deprecated constructor in /Applications/MAMP/htdocs/naifco/wp-content/plugins/easy-sign-up/lib/esu-admin-class.php on line 10
+[01-Dec-2016 03:46:16 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; esuAkismet has a deprecated constructor in /Applications/MAMP/htdocs/naifco/wp-content/plugins/easy-sign-up/lib/esu-akismet.php on line 5
+[01-Dec-2016 03:46:27 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; EsuAdmin has a deprecated constructor in /Applications/MAMP/htdocs/naifco/wp-content/plugins/easy-sign-up/lib/esu-admin-class.php on line 10
+[01-Dec-2016 03:46:27 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; esuAkismet has a deprecated constructor in /Applications/MAMP/htdocs/naifco/wp-content/plugins/easy-sign-up/lib/esu-akismet.php on line 5
+[01-Dec-2016 03:47:13 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; EsuAdmin has a deprecated constructor in /Applications/MAMP/htdocs/naifco/wp-content/plugins/easy-sign-up/lib/esu-admin-class.php on line 10
+[01-Dec-2016 03:47:13 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; esuAkismet has a deprecated constructor in /Applications/MAMP/htdocs/naifco/wp-content/plugins/easy-sign-up/lib/esu-akismet.php on line 5
+[01-Dec-2016 03:47:47 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; EsuAdmin has a deprecated constructor in /Applications/MAMP/htdocs/naifco/wp-content/plugins/easy-sign-up/lib/esu-admin-class.php on line 10
+[01-Dec-2016 03:47:47 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; esuAkismet has a deprecated constructor in /Applications/MAMP/htdocs/naifco/wp-content/plugins/easy-sign-up/lib/esu-akismet.php on line 5
+[01-Dec-2016 03:47:48 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; EsuAdmin has a deprecated constructor in /Applications/MAMP/htdocs/naifco/wp-content/plugins/easy-sign-up/lib/esu-admin-class.php on line 10
+[01-Dec-2016 03:47:48 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; esuAkismet has a deprecated constructor in /Applications/MAMP/htdocs/naifco/wp-content/plugins/easy-sign-up/lib/esu-akismet.php on line 5
+[01-Dec-2016 03:47:55 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; EsuAdmin has a deprecated constructor in /Applications/MAMP/htdocs/naifco/wp-content/plugins/easy-sign-up/lib/esu-admin-class.php on line 10
+[01-Dec-2016 03:47:55 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; esuAkismet has a deprecated constructor in /Applications/MAMP/htdocs/naifco/wp-content/plugins/easy-sign-up/lib/esu-akismet.php on line 5
+[01-Dec-2016 03:47:55 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; EsuAdmin has a deprecated constructor in /Applications/MAMP/htdocs/naifco/wp-content/plugins/easy-sign-up/lib/esu-admin-class.php on line 10
+[01-Dec-2016 03:47:55 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; esuAkismet has a deprecated constructor in /Applications/MAMP/htdocs/naifco/wp-content/plugins/easy-sign-up/lib/esu-akismet.php on line 5
+[01-Dec-2016 03:48:02 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; EsuAdmin has a deprecated constructor in /Applications/MAMP/htdocs/naifco/wp-content/plugins/easy-sign-up/lib/esu-admin-class.php on line 10
+[01-Dec-2016 03:48:02 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; esuAkismet has a deprecated constructor in /Applications/MAMP/htdocs/naifco/wp-content/plugins/easy-sign-up/lib/esu-akismet.php on line 5
+[01-Dec-2016 03:48:02 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; EsuAdmin has a deprecated constructor in /Applications/MAMP/htdocs/naifco/wp-content/plugins/easy-sign-up/lib/esu-admin-class.php on line 10
+[01-Dec-2016 03:48:02 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; esuAkismet has a deprecated constructor in /Applications/MAMP/htdocs/naifco/wp-content/plugins/easy-sign-up/lib/esu-akismet.php on line 5
+[01-Dec-2016 03:48:04 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; EsuAdmin has a deprecated constructor in /Applications/MAMP/htdocs/naifco/wp-content/plugins/easy-sign-up/lib/esu-admin-class.php on line 10
+[01-Dec-2016 03:48:04 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; esuAkismet has a deprecated constructor in /Applications/MAMP/htdocs/naifco/wp-content/plugins/easy-sign-up/lib/esu-akismet.php on line 5
+[01-Dec-2016 03:52:20 UTC] PHP Notice:  Undefined variable: message in /Applications/MAMP/htdocs/naifco/wp-content/plugins/mail-subscribe-list/index.php on line 62
+[01-Dec-2016 04:12:06 UTC] PHP Notice:  Undefined variable: message in /Applications/MAMP/htdocs/naifco/wp-content/plugins/mail-subscribe-list/index.php on line 62
+[01-Dec-2016 04:19:32 UTC] PHP Notice:  Undefined variable: message in /Applications/MAMP/htdocs/naifco/wp-content/plugins/mail-subscribe-list/index.php on line 62
+[01-Dec-2016 04:20:01 UTC] PHP Notice:  Undefined variable: message in /Applications/MAMP/htdocs/naifco/wp-content/plugins/mail-subscribe-list/index.php on line 62
+[01-Dec-2016 04:21:46 UTC] PHP Notice:  Undefined variable: message in /Applications/MAMP/htdocs/naifco/wp-content/plugins/mail-subscribe-list/index.php on line 62
+[01-Dec-2016 04:22:28 UTC] PHP Notice:  Undefined variable: message in /Applications/MAMP/htdocs/naifco/wp-content/plugins/mail-subscribe-list/index.php on line 62
+[01-Dec-2016 04:22:45 UTC] PHP Notice:  Undefined variable: message in /Applications/MAMP/htdocs/naifco/wp-content/plugins/mail-subscribe-list/index.php on line 62
+[01-Dec-2016 04:24:10 UTC] PHP Parse error:  syntax error, unexpected '?', expecting end of file in /Applications/MAMP/htdocs/naifco/wp-content/themes/real-estate-lite/footer.php on line 37
+[01-Dec-2016 05:03:00 UTC] PHP Parse error:  syntax error, unexpected '$return' (T_VARIABLE) in /Applications/MAMP/htdocs/naifco/wp-content/plugins/mail-subscribe-list/sml.php on line 85
+[01-Dec-2016 05:39:22 UTC] PHP Notice:  Undefined variable: message in /Applications/MAMP/htdocs/naifco/wp-content/plugins/mail-subscribe-list/index.php on line 62
+[01-Dec-2016 05:41:11 UTC] PHP Notice:  Undefined index: rem in /Applications/MAMP/htdocs/naifco/wp-content/plugins/mail-subscribe-list/index.php on line 17
+[01-Dec-2016 05:41:11 UTC] PHP Notice:  wpdb::escape is <strong>deprecated</strong> since version 3.6.0! Use wpdb::prepare() or esc_sql() instead. in /Applications/MAMP/htdocs/naifco/wp-includes/functions.php on line 3707
+[01-Dec-2016 05:41:11 UTC] PHP Notice:  wpdb::escape is <strong>deprecated</strong> since version 3.6.0! Use wpdb::prepare() or esc_sql() instead. in /Applications/MAMP/htdocs/naifco/wp-includes/functions.php on line 3707
+[01-Dec-2016 05:41:11 UTC] PHP Notice:  wpdb::escape is <strong>deprecated</strong> since version 3.6.0! Use wpdb::prepare() or esc_sql() instead. in /Applications/MAMP/htdocs/naifco/wp-includes/functions.php on line 3707
+[01-Dec-2016 05:41:11 UTC] PHP Notice:  wpdb::escape is <strong>deprecated</strong> since version 3.6.0! Use wpdb::prepare() or esc_sql() instead. in /Applications/MAMP/htdocs/naifco/wp-includes/functions.php on line 3707
+[01-Dec-2016 05:41:11 UTC] PHP Notice:  Undefined index: sml_import in /Applications/MAMP/htdocs/naifco/wp-content/plugins/mail-subscribe-list/index.php on line 28
+[01-Dec-2016 05:41:21 UTC] PHP Notice:  Undefined variable: message in /Applications/MAMP/htdocs/naifco/wp-content/plugins/mail-subscribe-list/index.php on line 62
+[01-Dec-2016 05:44:42 UTC] PHP Notice:  Undefined variable: message in /Applications/MAMP/htdocs/naifco/wp-content/plugins/mail-subscribe-list/index.php on line 62
+[01-Dec-2016 05:44:57 UTC] PHP Notice:  Undefined variable: message in /Applications/MAMP/htdocs/naifco/wp-content/plugins/mail-subscribe-list/index.php on line 62
+[01-Dec-2016 05:45:09 UTC] PHP Notice:  Undefined variable: message in /Applications/MAMP/htdocs/naifco/wp-content/plugins/mail-subscribe-list/index.php on line 62
+[01-Dec-2016 05:52:24 UTC] PHP Notice:  Undefined variable: message in /Applications/MAMP/htdocs/naifco/wp-content/plugins/mail-subscribe-list/index.php on line 62
+[01-Dec-2016 05:52:25 UTC] PHP Notice:  Undefined variable: message in /Applications/MAMP/htdocs/naifco/wp-content/plugins/mail-subscribe-list/index.php on line 62
+[01-Dec-2016 06:05:12 UTC] PHP Notice:  Undefined index: rem in /Applications/MAMP/htdocs/naifco/wp-content/plugins/mail-subscribe-list/index.php on line 17
+[01-Dec-2016 06:05:12 UTC] PHP Notice:  wpdb::escape is <strong>deprecated</strong> since version 3.6.0! Use wpdb::prepare() or esc_sql() instead. in /Applications/MAMP/htdocs/naifco/wp-includes/functions.php on line 3707
+[01-Dec-2016 06:05:12 UTC] PHP Notice:  Undefined index: sml_import in /Applications/MAMP/htdocs/naifco/wp-content/plugins/mail-subscribe-list/index.php on line 28
+[01-Dec-2016 06:05:28 UTC] PHP Notice:  Undefined variable: message in /Applications/MAMP/htdocs/naifco/wp-content/plugins/mail-subscribe-list/index.php on line 62
+[09-Dec-2016 20:50:09 UTC] PHP Notice:  Array to string conversion in /Applications/MAMP/htdocs/naifco/wp-content/themes/real-estate-lite/page-partners.php on line 47
+[09-Dec-2016 20:50:09 UTC] PHP Notice:  Array to string conversion in /Applications/MAMP/htdocs/naifco/wp-content/themes/real-estate-lite/page-partners.php on line 47
+[09-Dec-2016 20:50:09 UTC] PHP Notice:  Array to string conversion in /Applications/MAMP/htdocs/naifco/wp-content/themes/real-estate-lite/page-partners.php on line 47
+[09-Dec-2016 20:50:09 UTC] PHP Notice:  Array to string conversion in /Applications/MAMP/htdocs/naifco/wp-content/themes/real-estate-lite/page-partners.php on line 47
+[10-Dec-2016 23:26:38 UTC] PHP Notice:  Undefined variable: partnerImage in /Applications/MAMP/htdocs/naifco/wp-content/themes/real-estate-lite/page-ourPeople.php on line 47
+[10-Dec-2016 23:26:38 UTC] PHP Notice:  Undefined variable: partnerImage in /Applications/MAMP/htdocs/naifco/wp-content/themes/real-estate-lite/page-ourPeople.php on line 47
+[10-Dec-2016 23:26:38 UTC] PHP Notice:  Undefined variable: partnerImage in /Applications/MAMP/htdocs/naifco/wp-content/themes/real-estate-lite/page-ourPeople.php on line 47
+[10-Dec-2016 23:26:38 UTC] PHP Notice:  Undefined variable: partnerImage in /Applications/MAMP/htdocs/naifco/wp-content/themes/real-estate-lite/page-ourPeople.php on line 47
