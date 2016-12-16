@@ -74,10 +74,6 @@ get_header(); realeast_page_title();?>
 			</div>
 		<?php endif; ?>
 
-		<div id="testimonialSlider" class="center">
-			<?php echo do_shortcode("[show_testimonials]"); ?>
-		</div>
-
 	</div><!-- #primary -->
 
 	

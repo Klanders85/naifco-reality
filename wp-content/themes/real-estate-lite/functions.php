@@ -180,12 +180,7 @@ require get_template_directory() . '/inc/jetpack.php';
 function realeast_page_title() {
 ?>
 	<div class="header-image">
-		<div class="overlay"></div>
-		<div class="col-center">
-		<header class="entry-header">
-        <?php if ( !is_front_page() ) : ?>
-		<h1> <?php the_title(''); ?> </h1>
-        <?php endif; ?>
+		
 	</header><!-- .entry-header -->
 	</div>
 </div>

@@ -31,11 +31,11 @@
 		<div class="site-branding three-col">
 			
 			<hgroup>
-       			<h1 class='left site-title'><a href='<?php echo esc_url( home_url( '/' ) ); ?>' title='<?php echo esc_attr( get_bloginfo( 'name', 'display' ) ); ?>' rel='home'><?php bloginfo( 'name' ); ?></a></h1>
+       			<a href="/naifco"><img src="http://localhost:8888/naifco/wp-content/uploads/2016/12/naifcoRealtyLogo-1.jpg" alt=""></a>
     		</hgroup>
 
 		</div><!-- .site-branding -->
-		<div class="main-nav nine-col pull-right">
+		<div class="main-nav nine-col">
 		<nav id="site-navigation" class="main-navigation" role="navigation">
 			<?php wp_nav_menu( array( 'theme_location' => 'primary', 'menu_id' => 'primary-menu' ) ); ?>
 		</nav><!-- #site-navigation -->

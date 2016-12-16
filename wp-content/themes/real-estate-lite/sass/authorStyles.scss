@@ -6,16 +6,16 @@
 /* Variables */
 
 $primaryTeal: #17a6b7;
-$primaryNavyBlue : #002d41;
+$primaryNavyBlue: #002d41;
 $secondaryRed-ish: #ef4650;
 $secondaryLightBlue: #daebf3;
-
+$gunMetalGrey: #292e37;
 $fontMain: Helvetica, sans-serif;
 
 body{
-	background-color: $secondaryLightBlue;
 	font-family: $fontMain;
-	color: $primaryNavyBlue; }
+	color: $primaryNavyBlue; 
+}
 
 /*Alignments*/
 

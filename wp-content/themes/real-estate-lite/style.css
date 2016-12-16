@@ -81,7 +81,7 @@ audio:not([controls]) {
 
 a {
     background-color: transparent;
-    color: #f1572f;
+    color: #ef4650;
 }
 
 a:active, a:hover {
@@ -387,7 +387,7 @@ button, input, input[type="text"], #secondary .form-group input[type="text"], in
 }
 
 button, input[type="button"], input[type="reset"], input[type="submit"] {
-    background: #f1572f;
+    background: #ef4650;
     color: #fff;
 }
 
@@ -1165,7 +1165,6 @@ ul.bar-top {
 --------------------------------------------------------------*/
 
 a {
-    color: #f1572f;
     text-decoration: none;
     -webkit-transition: 0.15s ease-in-out;
     -moz-transition: 0.15s ease-in-out;
@@ -1176,7 +1175,7 @@ a {
 a:visited {}
 
 a:hover, a:focus, a:active {
-    color: #f1572f;
+    text-decoration: underline;
 }
 
 a:focus {
@@ -1235,7 +1234,7 @@ a:hover, a:active {
 }
 
 .main-navigation a:hover {
-    color: #f1572f;
+    color: #EF4650;
 }
 
 .main-navigation ul ul {
@@ -1335,7 +1334,7 @@ a:hover, a:active {
     left: 50%;
     right: 50%;
     bottom: 0;
-    background: #f1572f;
+    background: #EF4650;
     height: 4px;
     -webkit-transition-property: left, right;
     transition-property: left, right;
@@ -2770,3 +2769,44 @@ SLIDER							   |
     margin-left: 5%;
     margin-right: 10%;
 }
+
+.sml_subscribe p {
+    margin: 0;
+}
+.contactInfoWrapper ul li{
+    color: #FFF;
+    list-style-type: none;
+    text-align: center;
+}
+.contactInfoWrapper ul li a{
+    color: #EF4650;
+    list-style-type: none;
+}
+
+.contactInfoWrapper a:hover {
+    text-decoration: underline;
+}
+
+footer {
+    background-color: #002D41;
+    padding-top: 20px;
+}
+
+.mapWrapper {
+    text-align: center;
+}
+
+
+.clearfix:after {
+     visibility: hidden;
+     display: block;
+     font-size: 0;
+     content: " ";
+     clear: both;
+     height: 0;
+     }
+.clearfix { display: inline-block; }
+/* start commented backslash hack \*/
+* html .clearfix { height: 1%; }
+.clearfix { display: block; }
+/* close commented backslash hack */
