@@ -70,6 +70,12 @@ body{
   background-color:#476e9e;
 }
 
+.customButtonPDF {
+  @extend .customButton;
+  right: auto;
+  left: 20px;
+}
+
 
 .about-content-area {
   display: flex;

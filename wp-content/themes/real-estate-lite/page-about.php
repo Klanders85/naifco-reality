@@ -32,7 +32,7 @@ get_header(); realeast_page_title();?>
 		<div class="about-section six-col center" style="background-image: url('<?php echo $about_section_bgImg; ?>'); background-size: cover;">
 			<h3><?php echo $about_section_title; ?></h3>
 			<p><?php echo $about_section_body; ?></p>
-			<a class="button" href="<?php echo $about_section_link; ?>"><?php echo $about_section_link_text; ?></a>
+			<a class="customButton" href="<?php echo $about_section_link; ?>"><?php echo $about_section_link_text; ?></a>
 		</div>
 
 	<?php endwhile; endif; ?>

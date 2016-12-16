@@ -50,7 +50,7 @@ get_header(); realeast_page_title();?>
 				</div>
 			</div>
 			<div class="partnerInfo">
-				<p><?php echo $peopleName; ?></p>
+				<p><?php echo $peopleSummary; ?></p>
 			</div>
 		</div>
 		<?php endwhile; endif; ?>	

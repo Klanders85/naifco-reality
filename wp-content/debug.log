@@ -649,3 +649,18 @@ Stack trace:
 [15-Dec-2016 22:51:53 UTC] PHP Notice:  Undefined variable: link in /Applications/MAMP/htdocs/naifco/wp-content/themes/real-estate-lite/inc/customizer.php on line 22
 [15-Dec-2016 22:51:53 UTC] PHP Notice:  Undefined variable: link in /Applications/MAMP/htdocs/naifco/wp-content/themes/real-estate-lite/inc/customizer.php on line 22
 [15-Dec-2016 22:51:53 UTC] PHP Notice:  Undefined variable: link in /Applications/MAMP/htdocs/naifco/wp-content/themes/real-estate-lite/inc/customizer.php on line 38
+[16-Dec-2016 20:03:31 UTC] PHP Notice:  Undefined variable: Download PDF in /Applications/MAMP/htdocs/naifco/wp-content/themes/real-estate-lite/page-property-interior.php on line 38
+[16-Dec-2016 20:03:31 UTC] PHP Notice:  Undefined variable: Download PDF in /Applications/MAMP/htdocs/naifco/wp-content/themes/real-estate-lite/page-property-interior.php on line 38
+[16-Dec-2016 20:03:31 UTC] PHP Notice:  Undefined variable: Download PDF in /Applications/MAMP/htdocs/naifco/wp-content/themes/real-estate-lite/page-property-interior.php on line 38
+[16-Dec-2016 20:03:31 UTC] PHP Notice:  Undefined variable: Download PDF in /Applications/MAMP/htdocs/naifco/wp-content/themes/real-estate-lite/page-property-interior.php on line 38
+[16-Dec-2016 20:03:31 UTC] PHP Notice:  Undefined variable: Download PDF in /Applications/MAMP/htdocs/naifco/wp-content/themes/real-estate-lite/page-property-interior.php on line 38
+[16-Dec-2016 20:03:31 UTC] PHP Notice:  Undefined variable: Download PDF in /Applications/MAMP/htdocs/naifco/wp-content/themes/real-estate-lite/page-property-interior.php on line 38
+[16-Dec-2016 20:03:32 UTC] PHP Notice:  Undefined variable: Download PDF in /Applications/MAMP/htdocs/naifco/wp-content/themes/real-estate-lite/page-property-interior.php on line 38
+[16-Dec-2016 20:03:32 UTC] PHP Notice:  Undefined variable: Download PDF in /Applications/MAMP/htdocs/naifco/wp-content/themes/real-estate-lite/page-property-interior.php on line 38
+[16-Dec-2016 20:03:32 UTC] PHP Notice:  Undefined variable: Download PDF in /Applications/MAMP/htdocs/naifco/wp-content/themes/real-estate-lite/page-property-interior.php on line 38
+[16-Dec-2016 20:03:32 UTC] PHP Notice:  Undefined variable: Download PDF in /Applications/MAMP/htdocs/naifco/wp-content/themes/real-estate-lite/page-property-interior.php on line 38
+[16-Dec-2016 20:03:32 UTC] PHP Notice:  Undefined variable: Download PDF in /Applications/MAMP/htdocs/naifco/wp-content/themes/real-estate-lite/page-property-interior.php on line 38
+[16-Dec-2016 20:03:32 UTC] PHP Notice:  Undefined variable: Download PDF in /Applications/MAMP/htdocs/naifco/wp-content/themes/real-estate-lite/page-property-interior.php on line 38
+[16-Dec-2016 20:20:52 UTC] PHP Parse error:  syntax error, unexpected '<', expecting end of file in /Applications/MAMP/htdocs/naifco/wp-content/themes/real-estate-lite/page-property-interior.php on line 22
+[16-Dec-2016 20:22:13 UTC] PHP Notice:  Undefined variable: property_interior_retail_intro_copy in /Applications/MAMP/htdocs/naifco/wp-content/themes/real-estate-lite/page-property-interior.php on line 24
+[16-Dec-2016 20:22:14 UTC] PHP Notice:  Undefined variable: property_interior_retail_intro_copy in /Applications/MAMP/htdocs/naifco/wp-content/themes/real-estate-lite/page-property-interior.php on line 24
