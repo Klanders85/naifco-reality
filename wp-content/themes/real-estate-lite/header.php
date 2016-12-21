@@ -21,6 +21,7 @@
 </head>
 
 <body <?php body_class(); ?>>
+ <div id="mainContainer">
 <div id="page" class="hfeed site">
 
 	<a class="skip-link screen-reader-text" href="#content"><?php esc_html_e( 'Skip to content', 'real-estate-lite' ); ?></a>
@@ -31,7 +32,7 @@
 		<div class="site-branding three-col">
 			
 			<hgroup>
-       			<a href="/naifco"><img src="http://localhost:8888/naifco/wp-content/uploads/2016/12/naifcoRealtyLogo-1.jpg" alt=""></a>
+       			<a href="/naifco/"><img src="http://<?php echo $_SERVER['HTTP_HOST'];?>/naifco/wp-content/uploads/2016/12/NaifcoRealty.jpg" alt=""></a>
     		</hgroup>
 
 		</div><!-- .site-branding -->

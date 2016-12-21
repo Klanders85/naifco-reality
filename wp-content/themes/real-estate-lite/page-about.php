@@ -29,10 +29,14 @@ get_header(); realeast_page_title();?>
 		$about_section_link_text = get_sub_field('section_link_text');
 		$about_section_bgImg = get_sub_field('section_bgImg');
 	?>
-		<div class="about-section six-col center" style="background-image: url('<?php echo $about_section_bgImg; ?>'); background-size: cover;">
-			<h3><?php echo $about_section_title; ?></h3>
-			<p><?php echo $about_section_body; ?></p>
-			<a class="customButton" href="<?php echo $about_section_link; ?>"><?php echo $about_section_link_text; ?></a>
+		
+		<div class="about-section six-col center">
+			<div class="about-bgImg" style="background-image:url('<?php echo $about_section_bgImg; ?>');" ></div>
+			<div class="about-section-content">
+				<h3><?php echo $about_section_title; ?></h3>
+				<p><?php echo $about_section_body; ?></p>
+				<a class="customButton" href="<?php echo $about_section_link; ?>"><?php echo $about_section_link_text; ?></a>
+			</div>
 		</div>
 
 	<?php endwhile; endif; ?>

@@ -10,12 +10,17 @@ $primaryNavyBlue: #002d41;
 $secondaryRed-ish: #ef4650;
 $secondaryLightBlue: #daebf3;
 $gunMetalGrey: #292e37;
+$standardWhite: #ffffff;
 $fontMain: Helvetica, sans-serif;
 
 body{
 	font-family: $fontMain;
-	color: $primaryNavyBlue; 
 }
+
+#mainContainer{
+  display: none;
+}
+
 
 /*Alignments*/
 
@@ -121,8 +126,14 @@ body{
 	margin-top: 20px;
 }
 
+/*Header Styles*/
+
+header {
+  background-color: $primaryNavyBlue !important;
+}
+
 /*Footer Styles*/
-footer{
+footer {
   .linkWrapper {
     
   }
@@ -155,4 +166,24 @@ footer{
   margin-right: 0.5%;
   height: 300px;
   position: relative;
+  .about-bgImg{
+    background-size: cover;
+    position: absolute;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    z-index: -1;
+    filter: blur(5px);
+  }
+  .about-section-content {
+    margin: 10px;
+    background: rgba(255, 255, 255, 0.35);
+    border-radius: 5px;  
+    box-shadow: 0 1px 5px rgba(0, 0, 0, 0.25);
+  }
 }
+
+
+
+

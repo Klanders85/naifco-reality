@@ -971,7 +971,6 @@ textarea {
 .site-header {
     width: 100%;
     padding-top: 5px;
-    background: #fff;
     border-bottom: 1px solid #eee;
 }
 
@@ -1226,7 +1225,6 @@ a:hover, a:active {
 .main-navigation a, .main-navigation ul ul li a {
     display: block;
     text-decoration: none;
-    color: #000;
     text-transform: capitalize;
     font-weight: 400;
     font-size: 18px;
