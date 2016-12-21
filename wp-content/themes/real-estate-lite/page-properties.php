@@ -28,10 +28,13 @@ get_header(); realeast_page_title();?>
 		$property_link_text = get_sub_field('property_link_text');
 		$property_bgImg = get_sub_field('property_bgImg');
 	?>
-		<div class="about-section six-col center" style="background-image: url('<?php echo $property_bgImg; ?>'); background-size: cover;">
-			<h3><?php echo $property_title; ?></h3>
-			<p><?php echo $property_body; ?></p>
-			<a class="customButton" href="<?php echo $property_link; ?>"><?php echo $property_link_text; ?></a>
+		<div class="about-section six-col center">
+			<div class="about-bgImg" style="background-image: url('<?php echo $property_bgImg; ?>'); background-size: cover;"></div>
+			<div class="about-section-content">
+				<h3><?php echo $property_title; ?></h3>
+				<p><?php echo $property_body; ?></p>
+				<a class="customButton" href="<?php echo $property_link; ?>"><?php echo $property_link_text; ?></a>
+			</div>
 		</div>
 
 	<?php endwhile; endif; ?>

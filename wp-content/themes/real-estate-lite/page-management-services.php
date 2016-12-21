@@ -29,10 +29,13 @@ get_header(); realeast_page_title();?>
 		$service_link_text = get_sub_field('service_link_text');
 		$service_background_image = get_sub_field('service_background_image');
 	?>
-		<div class="about-section six-col center" style="background-image: url('<?php echo $service_background_image; ?>'); background-size: cover;">
+		<div class="mgmt-section six-col center">
+			<div class="about-bgImg"  style="background-image: url('<?php echo $service_background_image; ?>'); background-size: cover;"></div>
 			<h3><?php echo $service_title; ?></h3>
-			<p><?php echo $service_body; ?></p>
-			<a class="customButton" href="<?php echo $service_link; ?>"><?php echo $service_link_text; ?></a>
+			<div class="about-section-content">
+				<p><?php echo $service_body; ?></p>
+				<a class="customButton" href="<?php echo $service_link; ?>"><?php echo $service_link_text; ?></a>
+			</div>
 		</div>
 
 	<?php endwhile; endif; ?>

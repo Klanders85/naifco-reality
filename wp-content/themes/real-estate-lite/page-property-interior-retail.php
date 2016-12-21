@@ -34,11 +34,15 @@ get_header(); realeast_page_title();?>
 		$property_interior_retail_link = get_sub_field('property_interior_retail_link');
 		$property_interior_retail_background_image = get_sub_field('property_interior_retail_background_image');
 	?>
-		<div class="about-section four-col center" style="background-image: url('<?php echo $property_interior_retail_background_image; ?>'); background-size: cover;">
-			<h3><?php echo $property_interior_retail_title; ?></h3>
-			<p><?php echo $property_interior_retail_body; ?></p>
-			<a class="customButtonPDF" href="<?php echo $property_interior_retail_pdf; ?>"><?php echo $property_interior_retail_pdf_text; ?></a>
-			<a class="customButton" href="<?php echo $property_interior_retail_link; ?>"><?php echo $property_interior_retail_link_text; ?></a>
+		<div class="interiorProperty-section four-col center">
+			<div class="interiorProperty-bgImg" style="background-image: url('<?php echo $property_interior_retail_background_image; ?>');"></div>
+			<div class="propertyContent">
+				<h3><?php echo $property_interior_retail_title; ?></h3>
+				<p><?php echo $property_interior_retail_body; ?></p>
+				<a class="customButtonPDF" href="<?php echo $property_interior_retail_pdf; ?>"><?php echo $property_interior_retail_pdf_text; ?></a>
+				<a class="customButton" href="<?php echo $property_interior_retail_link; ?>"><?php echo $property_interior_retail_link_text; ?></a>	
+			</div>
+			
 		</div>
 
 	<?php endwhile; endif; ?>

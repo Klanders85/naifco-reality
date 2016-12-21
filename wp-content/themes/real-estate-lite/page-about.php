@@ -29,7 +29,6 @@ get_header(); realeast_page_title();?>
 		$about_section_link_text = get_sub_field('section_link_text');
 		$about_section_bgImg = get_sub_field('section_bgImg');
 	?>
-		
 		<div class="about-section six-col center">
 			<div class="about-bgImg" style="background-image:url('<?php echo $about_section_bgImg; ?>');" ></div>
 			<div class="about-section-content">
