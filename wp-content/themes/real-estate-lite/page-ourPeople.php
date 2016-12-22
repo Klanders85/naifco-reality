@@ -23,7 +23,7 @@ get_header(); realeast_page_title();?>
 	<?php endif; // End header image check. ?>
 
 	<div id="primary" class="content-area">
-		<main id="main" class="site-main" role="main" style="padding: 20px;">
+		<main id="main" class="site-main" role="main" style="padding: 20px;">	
 		<?php dynamic_sidebar( 'page' ); ?>
 
 			<?php while ( have_posts() ) : the_post(); ?>
@@ -35,6 +35,7 @@ get_header(); realeast_page_title();?>
 		</main><!-- #main -->
 
 		<div class="col-center">
+		<h1 class="center">Our People</h1>
 		<?php
 			// check if the repeater field has rows of data
 			if( have_rows('our_people') ): while ( have_rows('our_people') ) : the_row();
@@ -43,16 +44,14 @@ get_header(); realeast_page_title();?>
 		        $peopleName = get_sub_field('people_name');
 		        $peopleSummary = get_sub_field('people_summary');
 		?>
-		<div class="partnerWrapper">
-			<div class="partnerImage" style="background-image: url('<?php echo $peopleImage; ?>'); background-size: cover;">
-				<div class="partnerName">
-					<p><?php echo $peopleName; ?></p>
-				</div>
-			</div>
-			<div class="partnerInfo">
+		<div class="mgmt-section six-col center">
+			<div class="about-bgImg"  style="background-image: url('<?php echo $peopleImage; ?>'); background-size: cover;"></div>
+			<h3><?php echo $service_title; ?></h3>
+			<div class="propertyContent">
+				<p><?php echo $peopleName; ?></p>
 				<p><?php echo $peopleSummary; ?></p>
 			</div>
-		</div>
+		</div>	
 		<?php endwhile; endif; ?>	
 		
 		</div>
