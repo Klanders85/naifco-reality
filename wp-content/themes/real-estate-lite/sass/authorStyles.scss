@@ -186,6 +186,9 @@ footer {
 /*Mgmt Services*/
 .mgmt-section {
   @extend .about-section;
+  .about-bgImg{
+    filter: unset;
+  }
 }
 
 /*Interior Property Pages*/
@@ -225,9 +228,3 @@ footer {
 }
 
 /*Our People Page*/
-.partnerWrapper{
-  
-}
-
-
-

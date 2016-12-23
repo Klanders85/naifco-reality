@@ -45,10 +45,11 @@ get_header(); realeast_page_title();?>
 		        $peopleSummary = get_sub_field('people_summary');
 		?>
 		<div class="mgmt-section six-col center">
-			<div class="about-bgImg"  style="background-image: url('<?php echo $peopleImage; ?>'); background-size: cover;"></div>
-			<h3><?php echo $service_title; ?></h3>
-			<div class="propertyContent">
-				<p><?php echo $peopleName; ?></p>
+			<div class="about-bgImg">
+				<img src="<?php echo $peopleImage; ?>" alt="">
+			</div>
+			<h3><?php echo $peopleName; ?></h3>
+			<div class="about-section-content">
 				<p><?php echo $peopleSummary; ?></p>
 			</div>
 		</div>	
